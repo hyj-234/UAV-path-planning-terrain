@@ -1,0 +1,1 @@
+Synthetic test fixture generated as z[row,col]=3*row+col, with nodata at [0,0]. EPSG:32611, 2 m cells, 64x48 grid. Not real terrain. Licensed under the project MIT license.

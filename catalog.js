@@ -1,0 +1,1 @@
+window.TERRAIN_CATALOG=[{"id": "demo", "title": "合成地形示例", "group": "演示", "file": "data/demo.js"}];

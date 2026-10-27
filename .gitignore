@@ -1,0 +1,15 @@
+# Real terrain stays local until per-source redistribution review is complete.
+private/
+local-data/
+data/real-*
+*.tif
+!tests/fixtures/synthetic-dem.tif
+*.tiff
+*.las
+*.laz
+*.npy
+*.npz
+__pycache__/
+node_modules/
+test-results/
+vendor/*.js

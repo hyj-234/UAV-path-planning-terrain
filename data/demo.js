@@ -1,0 +1,1 @@
+(()=>{const x=Array.from({length:81},(_,i)=>i*12.5),y=[...x].reverse();window.registerTerrain('demo',{title:'合成地形示例（非真实地图）',source:'项目内数学函数生成',scope:'合成示例，完整范围1000×1000米；不对应真实地区或论文实验。',x,y,z:y.map(yy=>x.map(xx=>100+80*Math.exp(-((xx-450)**2+(yy-600)**2)/90000)+25*Math.sin(xx/160)*Math.cos(yy/200))),xy_unit:'m',z_unit:'m',metadata:{synthetic:true}});})();

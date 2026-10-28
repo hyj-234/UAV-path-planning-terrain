@@ -37,5 +37,14 @@
     "external algorithms and process timing",
     "independent tester",
     "closed-loop dynamics"
-  ]
+  ],
+  "reference_profiles_optional": true,
+  "custom_tasks_allowed": true,
+  "fleet_sizes_are_examples": true,
+  "usage_modes": [
+    "scene_only",
+    "optional_reference_tasks",
+    "custom_tasks"
+  ],
+  "comparison_scope": "Use identical declared tasks, parameters and evaluator for each comparison; custom configurations remain allowed and separately identified"
 }

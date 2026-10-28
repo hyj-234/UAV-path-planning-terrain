@@ -5,7 +5,7 @@ let version=0, traces=[], current='geometry';
 const status=document.getElementById('status');
 function pointTrace(xyz,name,color){return {type:'scatter3d',mode:'markers',name,x:xyz.map(p=>p[0]),y:xyz.map(p=>p[1]),z:xyz.map(p=>p[2]),marker:{size:1.4,color,opacity:.85},hovertemplate:name+'<br>X %{x}<br>Y %{y}<br>Z %{z}<extra></extra>'};}
 async function load(){const turn=++version;current=document.getElementById('scene').value;status.textContent='正在读取三维预览…';
-try{await new Promise((resolve,reject)=>{const s=document.createElement('script');s.src=current+'.js';s.onload=resolve;s.onerror=reject;document.body.appendChild(s)});if(turn!==version)return;
+try{if(window.plotlyReady)await window.plotlyReady;await new Promise((resolve,reject)=>{const s=document.createElement('script');s.src=current+'.js';s.onload=resolve;s.onerror=reject;document.body.appendChild(s)});if(turn!==version)return;
 const bytes=Uint8Array.from(atob(window.geometryPayload),c=>c.charCodeAt(0));const obj=JSON.parse(await new Response(new Blob([bytes]).stream().pipeThrough(new DecompressionStream('gzip'))).text());if(turn!==version)return;if(current==='geometry')window.geometryData=obj;else window.bridgeData=obj;
 let units='米（源坐标减去固定原点）';
 if(current==='geometry'){

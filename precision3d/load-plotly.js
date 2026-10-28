@@ -1,0 +1,1 @@
+window.plotlyReady=new Promise((resolve,reject)=>{function load(src,fail){const s=document.createElement('script');s.src=src;s.onload=resolve;s.onerror=fail;document.head.appendChild(s)}load('../vendor/plotly-2.35.2.min.js',()=>load('https://cdn.plot.ly/plotly-2.35.2.min.js',()=>reject(Error('Plotly library could not load'))))});

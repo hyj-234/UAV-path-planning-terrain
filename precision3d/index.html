@@ -4,4 +4,4 @@
 <select id="scene"><option value="geometry">苏黎世：完整两块点云与实际建筑模型</option><option value="Aqueduct_rotated">伯明翰运河桥：作者旋转版本，桥下细看</option><option value="Aqueduct_labeled">伯明翰运河桥：作者标注版本</option><option value="Aqueduct_all">伯明翰运河桥：原始扫描范围</option></select>
 <button id="reset">重置视角</button><button id="bridge">只看桥面、桥墩和拉索</button><a href="README_CN.md">数据与使用说明</a> · <a href="统一多无人机路径规划基准规范_CN.md">统一评测规范</a><div id="status">加载真实几何数据…</div><small>网页抽样仅供查看；完整原件保留在数据集 raw 文件夹。建筑轮廓最多显示每对象八个面，完整面保留在本地完整包 geometry 文件夹；公开仓库提供重建脚本。</small></header>
 <div class="notice" id="notice">点云没有点的位置不代表无障碍。桥下自由空间尚未认证。建筑与点云年份不同，不能作为同时刻真值。</div><div id="plot"></div>
-<script src="../vendor/plotly-2.35.2.min.js" onerror="this.onerror=null;this.src='https://cdn.plot.ly/plotly-2.35.2.min.js'"></script><script src="viewer.js"></script></html>
+<script src="load-plotly.js"></script><script src="viewer.js"></script></html>

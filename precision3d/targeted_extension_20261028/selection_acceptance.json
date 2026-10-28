@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "train_only": true,
+  "candidates": 32,
+  "counts": {
+    "layered_bridge": 8,
+    "pylon_structure": 8,
+    "antenna_structure": 8,
+    "urban_building_vegetation": 8
+  },
+  "actual_minimum_center_distance_m": 2402.0824341283983,
+  "selection_sha256": "4b356fd0bf66acdf5a2bf1d41919039321af6c30b02be143d20e51f16daaf51b",
+  "planning_qualification": "NONE_METADATA_ONLY"
+}

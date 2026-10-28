@@ -1,0 +1,8 @@
+{
+  "url": "https://huggingface.co/datasets/IGNF/FRACTAL/resolve/36e00245ef92fd180f655f6ee410f2e935693cc2/fractal.gpkg",
+  "repository_commit": "36e00245ef92fd180f655f6ee410f2e935693cc2",
+  "sha256": "d3b5bdf4a0e5b27e65aacbb8cf8ac57c461f4136e405fd65eb6ca71e810cf31b",
+  "official_lfs_sha256_verified": true,
+  "bytes": 31481856,
+  "kind": "METADATA_ONLY_NOT_POINT_CLOUD_ACQUISITION"
+}

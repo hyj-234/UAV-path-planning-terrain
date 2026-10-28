@@ -1,0 +1,22 @@
+{
+  "id": "IGNF/FRACTAL",
+  "sha": "36e00245ef92fd180f655f6ee410f2e935693cc2",
+  "cardData": {
+    "license": "etalab-2.0",
+    "pretty_name": "FRACTAL",
+    "size_categories": [
+      "100K<n<1M"
+    ],
+    "task_categories": [
+      "other"
+    ],
+    "tags": [
+      "IGN",
+      "Environement",
+      "Earth Observation",
+      "Aerial Lidar",
+      "Point Cloud Segmentation",
+      "3D Scene Understanding"
+    ]
+  }
+}

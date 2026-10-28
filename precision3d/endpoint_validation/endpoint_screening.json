@@ -1,0 +1,1473 @@
+{
+  "summary": {
+    "preliminary_sites": 32,
+    "geometry_candidates": 6,
+    "pad_geometry_pass_count": 12,
+    "hover_observation_screen_pass_count": 19,
+    "insufficient_ground": 12,
+    "excluded_by_observations_or_coverage": 14,
+    "certified_takeoff_sites": 0,
+    "certified_hover_sites": 0,
+    "certified_landing_sites": 0,
+    "elapsed_s": 2.2202531000002637,
+    "caveat": "Raw-point geometric screening only; no scanner-origin free-space evidence or operational landing certification"
+  },
+  "config": {
+    "body_radius_m": 0.3,
+    "map_margin_m": 0.2,
+    "tracking_margin_m": 0.15,
+    "pad_radius_m": 2.0,
+    "coverage_cell_m": 0.5,
+    "min_ground_points": 80,
+    "min_ground_coverage_fraction": 0.9,
+    "max_slope_deg": 5.0,
+    "max_plane_rms_m": 0.1,
+    "max_plane_residual_p95_m": 0.2,
+    "hover_agl_m": 8.0,
+    "support_to_airborne_agl_m": 1.0,
+    "note": "Illustrative screening thresholds, not aircraft specifications or real-flight safety limits"
+  },
+  "sites": [
+    {
+      "xy_lv95_m": [
+        2681125.0,
+        1248125.0
+      ],
+      "queried_points": 2243,
+      "ground_points": 294,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681125.0,
+        1248125.0,
+        410.6441074126133
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681125.0,
+        1248125.0,
+        411.6441074126133
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681125.0,
+        1248125.0,
+        418.6441074126133
+      ],
+      "plane_coefficients_local_xy": [
+        -0.004531459832169079,
+        -0.020199961393871035,
+        410.6441074126133
+      ],
+      "slope_deg": 1.1859674966032083,
+      "ground_plane_rms_m": 0.012754700688399305,
+      "ground_plane_abs_residual_p95_m": 0.023977111775479894,
+      "ground_coverage_fraction": 1.0,
+      "pad_nonground_observations": 0,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 8,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": true,
+      "departure_arrival_corridor_geometry_pass": false,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "EXCLUDED_BY_OBSERVATIONS_OR_COVERAGE",
+      "exclusion_reasons": [
+        "OBSERVED_VERTICAL_CORRIDOR_OBSTACLE"
+      ],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_000",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681125.0,
+        1248375.0
+      ],
+      "queried_points": 633,
+      "ground_points": 0,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "geometric_screen": "INSUFFICIENT_GROUND_EVIDENCE",
+      "exclusion_reasons": [
+        "GROUND_POINT_COUNT"
+      ],
+      "id": "endpoint_001",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681125.0,
+        1248625.0
+      ],
+      "queried_points": 316,
+      "ground_points": 147,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681125.0,
+        1248625.0,
+        405.7912798201173
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681125.0,
+        1248625.0,
+        406.7912798201173
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681125.0,
+        1248625.0,
+        413.7912798201173
+      ],
+      "plane_coefficients_local_xy": [
+        0.017807825960789593,
+        0.023148725811324766,
+        405.7912798201173
+      ],
+      "slope_deg": 1.6728968882317545,
+      "ground_plane_rms_m": 0.00963379463447504,
+      "ground_plane_abs_residual_p95_m": 0.020072002345176535,
+      "ground_coverage_fraction": 1.0,
+      "pad_nonground_observations": 0,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 0,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": true,
+      "departure_arrival_corridor_geometry_pass": true,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "GEOMETRY_CANDIDATE_ONLY",
+      "exclusion_reasons": [],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_002",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681125.0,
+        1248875.0
+      ],
+      "queried_points": 603,
+      "ground_points": 284,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681125.0,
+        1248875.0,
+        403.36075334502823
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681125.0,
+        1248875.0,
+        404.36075334502823
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681125.0,
+        1248875.0,
+        411.36075334502823
+      ],
+      "plane_coefficients_local_xy": [
+        -0.007002177608919937,
+        -0.01910957719911721,
+        403.36075334502823
+      ],
+      "slope_deg": 1.1659263028223448,
+      "ground_plane_rms_m": 0.02660394398187001,
+      "ground_plane_abs_residual_p95_m": 0.052829801200351696,
+      "ground_coverage_fraction": 1.0,
+      "pad_nonground_observations": 0,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 2,
+      "hover_obstacle_observations": 1,
+      "pad_geometry_pass": true,
+      "departure_arrival_corridor_geometry_pass": false,
+      "hover_observation_screen_pass": false,
+      "geometric_screen": "EXCLUDED_BY_OBSERVATIONS_OR_COVERAGE",
+      "exclusion_reasons": [
+        "OBSERVED_VERTICAL_CORRIDOR_OBSTACLE",
+        "OBSERVED_HOVER_OBSTACLE"
+      ],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_003",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681375.0,
+        1248125.0
+      ],
+      "queried_points": 644,
+      "ground_points": 219,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681375.0,
+        1248125.0,
+        410.189000531999
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681375.0,
+        1248125.0,
+        411.189000531999
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681375.0,
+        1248125.0,
+        418.189000531999
+      ],
+      "plane_coefficients_local_xy": [
+        0.015379730902501535,
+        -0.004548902008309597,
+        410.189000531999
+      ],
+      "slope_deg": 0.9188509168736709,
+      "ground_plane_rms_m": 0.009711862468313404,
+      "ground_plane_abs_residual_p95_m": 0.020490827893166853,
+      "ground_coverage_fraction": 0.9230769230769231,
+      "pad_nonground_observations": 0,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 3,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": true,
+      "departure_arrival_corridor_geometry_pass": false,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "EXCLUDED_BY_OBSERVATIONS_OR_COVERAGE",
+      "exclusion_reasons": [
+        "OBSERVED_VERTICAL_CORRIDOR_OBSTACLE"
+      ],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_004",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681375.0,
+        1248375.0
+      ],
+      "queried_points": 583,
+      "ground_points": 0,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "geometric_screen": "INSUFFICIENT_GROUND_EVIDENCE",
+      "exclusion_reasons": [
+        "GROUND_POINT_COUNT"
+      ],
+      "id": "endpoint_005",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681375.0,
+        1248625.0
+      ],
+      "queried_points": 498,
+      "ground_points": 0,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "geometric_screen": "INSUFFICIENT_GROUND_EVIDENCE",
+      "exclusion_reasons": [
+        "GROUND_POINT_COUNT"
+      ],
+      "id": "endpoint_006",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681375.0,
+        1248875.0
+      ],
+      "queried_points": 519,
+      "ground_points": 228,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681375.0,
+        1248875.0,
+        404.33693525399366
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681375.0,
+        1248875.0,
+        405.33693525399366
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681375.0,
+        1248875.0,
+        412.33693525399366
+      ],
+      "plane_coefficients_local_xy": [
+        0.001560603326230476,
+        0.006104054215370525,
+        404.33693525399366
+      ],
+      "slope_deg": 0.36098119118498573,
+      "ground_plane_rms_m": 0.018962717051970505,
+      "ground_plane_abs_residual_p95_m": 0.03311482315567673,
+      "ground_coverage_fraction": 1.0,
+      "pad_nonground_observations": 0,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 0,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": true,
+      "departure_arrival_corridor_geometry_pass": true,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "GEOMETRY_CANDIDATE_ONLY",
+      "exclusion_reasons": [],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_007",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681625.0,
+        1248125.0
+      ],
+      "queried_points": 605,
+      "ground_points": 54,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "geometric_screen": "INSUFFICIENT_GROUND_EVIDENCE",
+      "exclusion_reasons": [
+        "GROUND_POINT_COUNT"
+      ],
+      "id": "endpoint_008",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681625.0,
+        1248375.0
+      ],
+      "queried_points": 428,
+      "ground_points": 217,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681625.0,
+        1248375.0,
+        409.22799878709156
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681625.0,
+        1248375.0,
+        410.22799878709156
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681625.0,
+        1248375.0,
+        417.22799878709156
+      ],
+      "plane_coefficients_local_xy": [
+        0.04253982083018951,
+        -0.019341514782865943,
+        409.22799878709156
+      ],
+      "slope_deg": 2.6755084611025657,
+      "ground_plane_rms_m": 0.012185985438106691,
+      "ground_plane_abs_residual_p95_m": 0.025038282176524262,
+      "ground_coverage_fraction": 1.0,
+      "pad_nonground_observations": 0,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 0,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": true,
+      "departure_arrival_corridor_geometry_pass": true,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "GEOMETRY_CANDIDATE_ONLY",
+      "exclusion_reasons": [],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_009",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681625.0,
+        1248625.0
+      ],
+      "queried_points": 378,
+      "ground_points": 140,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681625.0,
+        1248625.0,
+        405.0311629497262
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681625.0,
+        1248625.0,
+        406.0311629497262
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681625.0,
+        1248625.0,
+        413.0311629497262
+      ],
+      "plane_coefficients_local_xy": [
+        0.02848574332500519,
+        0.02609153794901431,
+        405.0311629497262
+      ],
+      "slope_deg": 2.2121834204674813,
+      "ground_plane_rms_m": 0.02148204525652586,
+      "ground_plane_abs_residual_p95_m": 0.044306619749934835,
+      "ground_coverage_fraction": 0.9230769230769231,
+      "pad_nonground_observations": 15,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 0,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": false,
+      "departure_arrival_corridor_geometry_pass": true,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "EXCLUDED_BY_OBSERVATIONS_OR_COVERAGE",
+      "exclusion_reasons": [
+        "OBSERVED_PAD_OBSTACLE"
+      ],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_010",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681625.0,
+        1248875.0
+      ],
+      "queried_points": 631,
+      "ground_points": 0,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "geometric_screen": "INSUFFICIENT_GROUND_EVIDENCE",
+      "exclusion_reasons": [
+        "GROUND_POINT_COUNT"
+      ],
+      "id": "endpoint_011",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681875.0,
+        1248125.0
+      ],
+      "queried_points": 510,
+      "ground_points": 246,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681875.0,
+        1248125.0,
+        408.30910399532013
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681875.0,
+        1248125.0,
+        409.30910399532013
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681875.0,
+        1248125.0,
+        416.30910399532013
+      ],
+      "plane_coefficients_local_xy": [
+        -0.0003141633458564712,
+        -0.0005400596233187116,
+        408.30910399532013
+      ],
+      "slope_deg": 0.03579784653964683,
+      "ground_plane_rms_m": 0.014885443046871684,
+      "ground_plane_abs_residual_p95_m": 0.02990315396489507,
+      "ground_coverage_fraction": 1.0,
+      "pad_nonground_observations": 0,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 3,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": true,
+      "departure_arrival_corridor_geometry_pass": false,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "EXCLUDED_BY_OBSERVATIONS_OR_COVERAGE",
+      "exclusion_reasons": [
+        "OBSERVED_VERTICAL_CORRIDOR_OBSTACLE"
+      ],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_012",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681875.0,
+        1248375.0
+      ],
+      "queried_points": 434,
+      "ground_points": 226,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681875.0,
+        1248375.0,
+        402.6614155292973
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681875.0,
+        1248375.0,
+        403.6614155292973
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681875.0,
+        1248375.0,
+        410.6614155292973
+      ],
+      "plane_coefficients_local_xy": [
+        0.03540158938044176,
+        -0.059688454410945724,
+        402.6614155292973
+      ],
+      "slope_deg": 3.9698072554255788,
+      "ground_plane_rms_m": 0.1280007126365984,
+      "ground_plane_abs_residual_p95_m": 0.2323692534567101,
+      "ground_coverage_fraction": 0.9807692307692307,
+      "pad_nonground_observations": 1,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 0,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": false,
+      "departure_arrival_corridor_geometry_pass": true,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "EXCLUDED_BY_OBSERVATIONS_OR_COVERAGE",
+      "exclusion_reasons": [
+        "ROUGHNESS_RMS",
+        "ROUGHNESS_P95",
+        "OBSERVED_PAD_OBSTACLE"
+      ],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_013",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681875.0,
+        1248625.0
+      ],
+      "queried_points": 535,
+      "ground_points": 93,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681875.0,
+        1248625.0,
+        405.5048162962179
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681875.0,
+        1248625.0,
+        406.5048162962179
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681875.0,
+        1248625.0,
+        413.5048162962179
+      ],
+      "plane_coefficients_local_xy": [
+        0.005269254998450711,
+        -0.0036663759312887123,
+        405.5048162962179
+      ],
+      "slope_deg": 0.3677935144600608,
+      "ground_plane_rms_m": 0.01868579137903614,
+      "ground_plane_abs_residual_p95_m": 0.03599920133979137,
+      "ground_coverage_fraction": 0.6538461538461539,
+      "pad_nonground_observations": 2,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 19,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": false,
+      "departure_arrival_corridor_geometry_pass": false,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "EXCLUDED_BY_OBSERVATIONS_OR_COVERAGE",
+      "exclusion_reasons": [
+        "GROUND_COVERAGE",
+        "OBSERVED_PAD_OBSTACLE",
+        "OBSERVED_VERTICAL_CORRIDOR_OBSTACLE"
+      ],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_014",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681875.0,
+        1248875.0
+      ],
+      "queried_points": 1657,
+      "ground_points": 245,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681875.0,
+        1248875.0,
+        404.2967220953189
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681875.0,
+        1248875.0,
+        405.2967220953189
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681875.0,
+        1248875.0,
+        412.2967220953189
+      ],
+      "plane_coefficients_local_xy": [
+        -0.009255688947556365,
+        -0.004817626567330535,
+        404.2967220953189
+      ],
+      "slope_deg": 0.597827033852724,
+      "ground_plane_rms_m": 0.017017917964390204,
+      "ground_plane_abs_residual_p95_m": 0.0345805007116155,
+      "ground_coverage_fraction": 1.0,
+      "pad_nonground_observations": 0,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 14,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": true,
+      "departure_arrival_corridor_geometry_pass": false,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "EXCLUDED_BY_OBSERVATIONS_OR_COVERAGE",
+      "exclusion_reasons": [
+        "OBSERVED_VERTICAL_CORRIDOR_OBSTACLE"
+      ],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_015",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931"
+    },
+    {
+      "xy_lv95_m": [
+        2681125.0,
+        1249125.0
+      ],
+      "queried_points": 551,
+      "ground_points": 280,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681125.0,
+        1249125.0,
+        400.8778368608109
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681125.0,
+        1249125.0,
+        401.8778368608109
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681125.0,
+        1249125.0,
+        408.8778368608109
+      ],
+      "plane_coefficients_local_xy": [
+        0.012005367778025059,
+        -0.005229183163237394,
+        400.8778368608109
+      ],
+      "slope_deg": 0.7502326359833728,
+      "ground_plane_rms_m": 0.009499772271284455,
+      "ground_plane_abs_residual_p95_m": 0.018406646824672634,
+      "ground_coverage_fraction": 1.0,
+      "pad_nonground_observations": 0,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 0,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": true,
+      "departure_arrival_corridor_geometry_pass": true,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "GEOMETRY_CANDIDATE_ONLY",
+      "exclusion_reasons": [],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_016",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    },
+    {
+      "xy_lv95_m": [
+        2681125.0,
+        1249375.0
+      ],
+      "queried_points": 769,
+      "ground_points": 207,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681125.0,
+        1249375.0,
+        402.030142552234
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681125.0,
+        1249375.0,
+        403.030142552234
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681125.0,
+        1249375.0,
+        410.030142552234
+      ],
+      "plane_coefficients_local_xy": [
+        0.014695464273038692,
+        -0.005930747076604348,
+        402.030142552234
+      ],
+      "slope_deg": 0.9078956862060465,
+      "ground_plane_rms_m": 0.01628807342180039,
+      "ground_plane_abs_residual_p95_m": 0.0335297251443194,
+      "ground_coverage_fraction": 0.9807692307692307,
+      "pad_nonground_observations": 10,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 0,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": false,
+      "departure_arrival_corridor_geometry_pass": true,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "EXCLUDED_BY_OBSERVATIONS_OR_COVERAGE",
+      "exclusion_reasons": [
+        "OBSERVED_PAD_OBSTACLE"
+      ],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_017",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    },
+    {
+      "xy_lv95_m": [
+        2681125.0,
+        1249625.0
+      ],
+      "queried_points": 598,
+      "ground_points": 0,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "geometric_screen": "INSUFFICIENT_GROUND_EVIDENCE",
+      "exclusion_reasons": [
+        "GROUND_POINT_COUNT"
+      ],
+      "id": "endpoint_018",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    },
+    {
+      "xy_lv95_m": [
+        2681125.0,
+        1249875.0
+      ],
+      "queried_points": 928,
+      "ground_points": 184,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681125.0,
+        1249875.0,
+        401.7025615527227
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681125.0,
+        1249875.0,
+        402.7025615527227
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681125.0,
+        1249875.0,
+        409.7025615527227
+      ],
+      "plane_coefficients_local_xy": [
+        0.19460511478323347,
+        0.8013878380500614,
+        401.7025615527227
+      ],
+      "slope_deg": 39.51164808269203,
+      "ground_plane_rms_m": 0.09687505506482372,
+      "ground_plane_abs_residual_p95_m": 0.17866526806334376,
+      "ground_coverage_fraction": 0.9807692307692307,
+      "pad_nonground_observations": 2,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 0,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": false,
+      "departure_arrival_corridor_geometry_pass": true,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "EXCLUDED_BY_OBSERVATIONS_OR_COVERAGE",
+      "exclusion_reasons": [
+        "SLOPE",
+        "OBSERVED_PAD_OBSTACLE"
+      ],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_019",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    },
+    {
+      "xy_lv95_m": [
+        2681375.0,
+        1249125.0
+      ],
+      "queried_points": 325,
+      "ground_points": 0,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "geometric_screen": "INSUFFICIENT_GROUND_EVIDENCE",
+      "exclusion_reasons": [
+        "GROUND_POINT_COUNT"
+      ],
+      "id": "endpoint_020",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    },
+    {
+      "xy_lv95_m": [
+        2681375.0,
+        1249375.0
+      ],
+      "queried_points": 496,
+      "ground_points": 0,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "geometric_screen": "INSUFFICIENT_GROUND_EVIDENCE",
+      "exclusion_reasons": [
+        "GROUND_POINT_COUNT"
+      ],
+      "id": "endpoint_021",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    },
+    {
+      "xy_lv95_m": [
+        2681375.0,
+        1249625.0
+      ],
+      "queried_points": 454,
+      "ground_points": 228,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681375.0,
+        1249625.0,
+        401.65840238659655
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681375.0,
+        1249625.0,
+        402.65840238659655
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681375.0,
+        1249625.0,
+        409.65840238659655
+      ],
+      "plane_coefficients_local_xy": [
+        -0.005222651959856306,
+        -0.02684676048041368,
+        401.65840238659655
+      ],
+      "slope_deg": 1.566651259746653,
+      "ground_plane_rms_m": 0.011326536466260905,
+      "ground_plane_abs_residual_p95_m": 0.021759789983275348,
+      "ground_coverage_fraction": 1.0,
+      "pad_nonground_observations": 0,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 0,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": true,
+      "departure_arrival_corridor_geometry_pass": true,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "GEOMETRY_CANDIDATE_ONLY",
+      "exclusion_reasons": [],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_022",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    },
+    {
+      "xy_lv95_m": [
+        2681375.0,
+        1249875.0
+      ],
+      "queried_points": 631,
+      "ground_points": 94,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681375.0,
+        1249875.0,
+        411.6505271438449
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681375.0,
+        1249875.0,
+        412.6505271438449
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681375.0,
+        1249875.0,
+        419.6505271438449
+      ],
+      "plane_coefficients_local_xy": [
+        0.054285977564174706,
+        0.5934382746803806,
+        411.6505271438449
+      ],
+      "slope_deg": 30.79139326365699,
+      "ground_plane_rms_m": 0.6406213232307219,
+      "ground_plane_abs_residual_p95_m": 1.554778133415837,
+      "ground_coverage_fraction": 0.9038461538461539,
+      "pad_nonground_observations": 30,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 5,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": false,
+      "departure_arrival_corridor_geometry_pass": false,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "EXCLUDED_BY_OBSERVATIONS_OR_COVERAGE",
+      "exclusion_reasons": [
+        "SLOPE",
+        "ROUGHNESS_RMS",
+        "ROUGHNESS_P95",
+        "OBSERVED_PAD_OBSTACLE",
+        "OBSERVED_VERTICAL_CORRIDOR_OBSTACLE"
+      ],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_023",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    },
+    {
+      "xy_lv95_m": [
+        2681625.0,
+        1249125.0
+      ],
+      "queried_points": 945,
+      "ground_points": 208,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681625.0,
+        1249125.0,
+        403.43734017193435
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681625.0,
+        1249125.0,
+        404.43734017193435
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681625.0,
+        1249125.0,
+        411.43734017193435
+      ],
+      "plane_coefficients_local_xy": [
+        -0.0024447031431738694,
+        0.008940628638072212,
+        403.43734017193435
+      ],
+      "slope_deg": 0.5310502641611886,
+      "ground_plane_rms_m": 0.008274971402831314,
+      "ground_plane_abs_residual_p95_m": 0.016095392674887417,
+      "ground_coverage_fraction": 1.0,
+      "pad_nonground_observations": 0,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 30,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": true,
+      "departure_arrival_corridor_geometry_pass": false,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "EXCLUDED_BY_OBSERVATIONS_OR_COVERAGE",
+      "exclusion_reasons": [
+        "OBSERVED_VERTICAL_CORRIDOR_OBSTACLE"
+      ],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_024",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    },
+    {
+      "xy_lv95_m": [
+        2681625.0,
+        1249375.0
+      ],
+      "queried_points": 658,
+      "ground_points": 0,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "geometric_screen": "INSUFFICIENT_GROUND_EVIDENCE",
+      "exclusion_reasons": [
+        "GROUND_POINT_COUNT"
+      ],
+      "id": "endpoint_025",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    },
+    {
+      "xy_lv95_m": [
+        2681625.0,
+        1249625.0
+      ],
+      "queried_points": 106,
+      "ground_points": 0,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "geometric_screen": "INSUFFICIENT_GROUND_EVIDENCE",
+      "exclusion_reasons": [
+        "GROUND_POINT_COUNT"
+      ],
+      "id": "endpoint_026",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    },
+    {
+      "xy_lv95_m": [
+        2681625.0,
+        1249875.0
+      ],
+      "queried_points": 571,
+      "ground_points": 143,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681625.0,
+        1249875.0,
+        423.3944589927902
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681625.0,
+        1249875.0,
+        424.3944589927902
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681625.0,
+        1249875.0,
+        431.3944589927902
+      ],
+      "plane_coefficients_local_xy": [
+        -0.003937137557341691,
+        0.0006611086409975542,
+        423.3944589927902
+      ],
+      "slope_deg": 0.22873826754909818,
+      "ground_plane_rms_m": 0.014086667712502414,
+      "ground_plane_abs_residual_p95_m": 0.026223946090118525,
+      "ground_coverage_fraction": 0.7692307692307693,
+      "pad_nonground_observations": 18,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 2,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": false,
+      "departure_arrival_corridor_geometry_pass": false,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "EXCLUDED_BY_OBSERVATIONS_OR_COVERAGE",
+      "exclusion_reasons": [
+        "GROUND_COVERAGE",
+        "OBSERVED_PAD_OBSTACLE",
+        "OBSERVED_VERTICAL_CORRIDOR_OBSTACLE"
+      ],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_027",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    },
+    {
+      "xy_lv95_m": [
+        2681875.0,
+        1249125.0
+      ],
+      "queried_points": 643,
+      "ground_points": 0,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "geometric_screen": "INSUFFICIENT_GROUND_EVIDENCE",
+      "exclusion_reasons": [
+        "GROUND_POINT_COUNT"
+      ],
+      "id": "endpoint_028",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    },
+    {
+      "xy_lv95_m": [
+        2681875.0,
+        1249375.0
+      ],
+      "queried_points": 554,
+      "ground_points": 0,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "geometric_screen": "INSUFFICIENT_GROUND_EVIDENCE",
+      "exclusion_reasons": [
+        "GROUND_POINT_COUNT"
+      ],
+      "id": "endpoint_029",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    },
+    {
+      "xy_lv95_m": [
+        2681875.0,
+        1249625.0
+      ],
+      "queried_points": 588,
+      "ground_points": 292,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681875.0,
+        1249625.0,
+        411.07909799551555
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681875.0,
+        1249625.0,
+        412.07909799551555
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681875.0,
+        1249625.0,
+        419.07909799551555
+      ],
+      "plane_coefficients_local_xy": [
+        -0.0017076242649473117,
+        -0.013847508385140372,
+        411.07909799551555
+      ],
+      "slope_deg": 0.799361773198527,
+      "ground_plane_rms_m": 0.012359719429607762,
+      "ground_plane_abs_residual_p95_m": 0.02469286838027642,
+      "ground_coverage_fraction": 1.0,
+      "pad_nonground_observations": 0,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 0,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": true,
+      "departure_arrival_corridor_geometry_pass": true,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "GEOMETRY_CANDIDATE_ONLY",
+      "exclusion_reasons": [],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_030",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    },
+    {
+      "xy_lv95_m": [
+        2681875.0,
+        1249875.0
+      ],
+      "queried_points": 386,
+      "ground_points": 150,
+      "final_takeoff_status": "UNQUALIFIED",
+      "final_hover_status": "UNQUALIFIED",
+      "final_landing_status": "UNQUALIFIED",
+      "missing_evidence": [
+        "verified free-space visibility",
+        "surface material and bearing capacity",
+        "traffic and transient obstacles",
+        "current-condition verification",
+        "vehicle-specific landing/contact and tracking limits"
+      ],
+      "ground_contact_reference_lv95_ln02_m": [
+        2681875.0,
+        1249875.0,
+        430.4866726671147
+      ],
+      "airborne_departure_reference_lv95_ln02_m": [
+        2681875.0,
+        1249875.0,
+        431.4866726671147
+      ],
+      "hover_reference_lv95_ln02_m": [
+        2681875.0,
+        1249875.0,
+        438.4866726671147
+      ],
+      "plane_coefficients_local_xy": [
+        -0.07594701395334535,
+        0.1651665786527019,
+        430.4866726671147
+      ],
+      "slope_deg": 10.303335836656778,
+      "ground_plane_rms_m": 0.04520813826988891,
+      "ground_plane_abs_residual_p95_m": 0.08754275688087886,
+      "ground_coverage_fraction": 1.0,
+      "pad_nonground_observations": 1,
+      "water_observations": 0,
+      "corridor_obstacle_observations": 0,
+      "hover_obstacle_observations": 0,
+      "pad_geometry_pass": false,
+      "departure_arrival_corridor_geometry_pass": true,
+      "hover_observation_screen_pass": true,
+      "geometric_screen": "EXCLUDED_BY_OBSERVATIONS_OR_COVERAGE",
+      "exclusion_reasons": [
+        "SLOPE",
+        "OBSERVED_PAD_OBSTACLE"
+      ],
+      "caution": "No obstacle observation is not proof of free space. Ground contact reference is not airborne vehicle center.",
+      "id": "endpoint_031",
+      "source_file": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce"
+    }
+  ]
+}

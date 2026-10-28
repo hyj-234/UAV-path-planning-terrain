@@ -1,0 +1,244 @@
+{
+  "config": {
+    "body_radius_m": 0.3,
+    "map_margin_m": 0.2,
+    "tracking_margin_m": 0.15,
+    "pad_radius_m": 2.0,
+    "coverage_cell_m": 0.5,
+    "min_ground_points": 80,
+    "min_ground_coverage_fraction": 0.9,
+    "max_slope_deg": 5.0,
+    "max_plane_rms_m": 0.1,
+    "max_plane_residual_p95_m": 0.2,
+    "hover_agl_m": 8.0,
+    "support_to_airborne_agl_m": 1.0,
+    "note": "Illustrative screening thresholds, not aircraft specifications or real-flight safety limits"
+  },
+  "candidates": [
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681125.0,
+        1248125.0
+      ]
+    },
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681125.0,
+        1248375.0
+      ]
+    },
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681125.0,
+        1248625.0
+      ]
+    },
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681125.0,
+        1248875.0
+      ]
+    },
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681375.0,
+        1248125.0
+      ]
+    },
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681375.0,
+        1248375.0
+      ]
+    },
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681375.0,
+        1248625.0
+      ]
+    },
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681375.0,
+        1248875.0
+      ]
+    },
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681625.0,
+        1248125.0
+      ]
+    },
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681625.0,
+        1248375.0
+      ]
+    },
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681625.0,
+        1248625.0
+      ]
+    },
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681625.0,
+        1248875.0
+      ]
+    },
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681875.0,
+        1248125.0
+      ]
+    },
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681875.0,
+        1248375.0
+      ]
+    },
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681875.0,
+        1248625.0
+      ]
+    },
+    {
+      "source_sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+      "xy": [
+        2681875.0,
+        1248875.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681125.0,
+        1249125.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681125.0,
+        1249375.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681125.0,
+        1249625.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681125.0,
+        1249875.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681375.0,
+        1249125.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681375.0,
+        1249375.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681375.0,
+        1249625.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681375.0,
+        1249875.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681625.0,
+        1249125.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681625.0,
+        1249375.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681625.0,
+        1249625.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681625.0,
+        1249875.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681875.0,
+        1249125.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681875.0,
+        1249375.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681875.0,
+        1249625.0
+      ]
+    },
+    {
+      "source_sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+      "xy": [
+        2681875.0,
+        1249875.0
+      ]
+    }
+  ],
+  "selection": "Fixed 4x4 lattice per complete official tile; not selected using flight outcomes"
+}

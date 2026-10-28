@@ -8,7 +8,11 @@ A browser-based terrain viewer with offline support. Open `index.html` directly 
 
 GeoTIFF先显示源文件**完整范围**；二维放大后从原文件重新读取局部细节，不导出裁剪文件。三维使用覆盖全范围的概览网格；缺测像元保持空白。GeoTIFF的高程单位沿用源文件，未核实的单位不会自动当成米。
 
-内置示例是明确标注的合成地形。公开代码包不附带论文实验数据、模型、飞行记录或许可尚未核实的第三方地形。实际地形产品的许可与本项目代码许可分别适用。
+现已提供32地点、64份官方真实高程产品的目录：城市8、山地6、农村6、森林6、湖泊河流6。每地点包括DSM（建筑/植被表面，0.5m）和DTM（裸地，2m）。网页从官方地址读取完整瓦片，目录和官方SHA256见dataset/catalog.json。
+
+首批均来自瑞士，场景属于地点语境标签，尚未独立逐像元分类审核；相邻地点不等于独立统计样本。DSM和DTM年份未必相同，不是灾前灾后变化对。原论文变化数据、模型及实验记录没有上传。另保留明确标注的合成示例。
+
+真实数据署名：**Source: Federal Office of Topography swisstopo**。遵守[swisstopo OGD条款](https://www.swisstopo.admin.ch/ogd-conditions)，不适用本项目MIT代码许可。详情见[数据说明](dataset/README_CN.md)。
 
 ## GitHub Pages
 

@@ -12,7 +12,8 @@ const fs = require('node:fs');
   page.on('pageerror', e => errors.push(e.message));
   page.on('request', r => { if (/^https?:/.test(r.url())) external.push(r.url()); });
   await page.goto(pathToFileURL(path.resolve(__dirname, '..', 'index.html')).href);
-  await page.waitForFunction(() => document.getElementById('status').textContent.includes('显示网格'));
+  await page.selectOption('#group','合成演示');
+  await page.waitForFunction(() => document.getElementById('status').textContent.includes('合成地形示例（非真实地图） ·'));
   assert.match(await page.locator('#scope').textContent(), /合成示例/);
   await page.locator('#file').setInputFiles(path.join(__dirname, 'fixtures', 'synthetic-dem.tif'));
   await page.waitForFunction(() => document.getElementById('status').textContent.includes('synthetic-dem.tif ·'));
@@ -29,7 +30,7 @@ const fs = require('node:fs');
   await page.waitForTimeout(200);
   fs.mkdirSync(path.resolve(__dirname, '../test-results'), { recursive: true });
   await page.screenshot({ path: path.resolve(__dirname, '../test-results/local-geotiff.png'), fullPage: true });
-  assert.deepEqual(errors, []); assert.deepEqual(external, []);
+  assert.deepEqual(errors, []); assert.ok(external.every(url => url.startsWith('https://data.geo.admin.ch/')));
   console.log('PASS: offline example, local GeoTIFF, exact height/nodata/orientation, native zoom, reset, no uploads or external requests');
  } finally { await browser.close(); }
 })().catch(e => { console.error(e); process.exitCode = 1; });

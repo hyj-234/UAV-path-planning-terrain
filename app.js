@@ -44,6 +44,7 @@ window.registerTerrain=async function(id,d){
 function loadSelected(){
  ++loadVersion;++detailVersion;localImage=null;$('error').textContent='';$('status').textContent='加载完整范围…';
  const t=window.TERRAIN_CATALOG.find(t=>t.id===$('terrain').value);if(!t)return;
+ if(t.url){const version=loadVersion;GeoTIFF.fromUrl(t.url).then(tiff=>openDataset(tiff,t.title,version,t)).catch(e=>{if(version===loadVersion)error(e);});return;}
  const script=document.createElement('script');script.src=t.file;
  script.onerror=()=>error(Error('找不到地图文件，请保留整个文件夹'));
  document.head.appendChild(script);
@@ -52,13 +53,16 @@ function cleanRasters(rasters,width,height,nodata){
  const a=rasters[0],z=[];for(let j=0;j<height;j++){let row=[];for(let i=0;i<width;i++){const v=Number(a[j*width+i]);row.push(finite(v)&&v!==nodata?v:null);}z.push(row);}return z;
 }
 async function openTiff(file,version){
- const tiff=await GeoTIFF.fromBlob(file),image=await tiff.getImage();
+ return openDataset(await GeoTIFF.fromBlob(file),file.name,version,null);
+}
+async function openDataset(tiff,name,version,entry){
+ const image=await tiff.getImage();
  const bbox=image.getBoundingBox();if(bbox.length!==4||!bbox.every(finite))throw Error('文件没有可识别的地理范围');
  const width=image.getWidth(),height=image.getHeight(),scale=Math.min(1,600/Math.max(width,height));
  const w=Math.max(2,Math.round(width*scale)),h=Math.max(2,Math.round(height*scale));
  const raw=await image.readRasters({samples:[0],width:w,height:h,resampleMethod:'nearest'});
  const nodata=image.getGDALNoData(),dx=(bbox[2]-bbox[0])/w,dy=(bbox[3]-bbox[1])/h;
- const d={title:file.name,source:'浏览器本地读取；没有上传文件',x:Array.from({length:w},(_,i)=>bbox[0]+(i+.5)*dx),y:Array.from({length:h},(_,j)=>bbox[3]-(j+.5)*dy),z:cleanRasters(raw,w,h,nodata),scope:'源GeoTIFF完整范围。二维放大时按原文件重新读取细节；三维显示全范围概览。',metadata:{native_width:width,native_height:height,bounds:bbox,geokeys:image.getGeoKeys(),nodata}};
+ const d={title:name,source:entry?entry.source:'浏览器本地读取；没有上传文件',x:Array.from({length:w},(_,i)=>bbox[0]+(i+.5)*dx),y:Array.from({length:h},(_,j)=>bbox[3]-(j+.5)*dy),z:cleanRasters(raw,w,h,nodata),scope:'源GeoTIFF完整范围。二维放大时重新读取源像元；三维显示全幅概览。'+(entry?' © swisstopo；场景为地点语境标签，尚未逐像元独立审核。':''),metadata:{...(entry?entry.metadata:{}),native_width:width,native_height:height,bounds:bbox,geokeys:image.getGeoKeys(),nodata}};
  await show(d,version);if(version===loadVersion)localImage={image,bbox,nodata,width,height};
 }
 async function zoomDetail(event){

@@ -1,0 +1,30 @@
+[
+  {
+    "site": "mojave",
+    "resolution": 30,
+    "old_latitude": 35.0,
+    "new_latitude": 35.05,
+    "reason": "Initial anchor was on degree-tile south boundary outside COG pixel extent by half pixel. Move anchor inside same predefined tile; raw source file and scene unchanged; no flight-outcome selection."
+  },
+  {
+    "site": "simpson_desert",
+    "resolution": 30,
+    "old_latitude": -25.0,
+    "new_latitude": -24.95,
+    "reason": "Initial anchor was on degree-tile south boundary outside COG pixel extent by half pixel. Move anchor inside same predefined tile; raw source file and scene unchanged; no flight-outcome selection."
+  },
+  {
+    "site": "mojave",
+    "resolution": 90,
+    "old_latitude": 35.0,
+    "new_latitude": 35.05,
+    "reason": "Initial anchor was on degree-tile south boundary outside COG pixel extent by half pixel. Move anchor inside same predefined tile; raw source file and scene unchanged; no flight-outcome selection."
+  },
+  {
+    "site": "simpson_desert",
+    "resolution": 90,
+    "old_latitude": -25.0,
+    "new_latitude": -24.95,
+    "reason": "Initial anchor was on degree-tile south boundary outside COG pixel extent by half pixel. Move anchor inside same predefined tile; raw source file and scene unchanged; no flight-outcome selection."
+  }
+]

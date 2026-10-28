@@ -1,0 +1,1924 @@
+[
+  {
+    "site_id": "zurich",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.8192256649933645,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.11239974611966995,
+      "30": 0.003462004500605851,
+      "50": 0.8192256649933645,
+      "60": 0.0020772027003635105,
+      "80": 0.06283538168599619
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "basel",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.6628440366972477,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.13153669724770642,
+      "30": 0.00028669724770642203,
+      "40": 0.0005733944954128441,
+      "50": 0.6628440366972477,
+      "60": 0.0025802752293577983,
+      "80": 0.2021788990825688
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "geneva",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.8028699129616561,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.059280169371912494,
+      "30": 0.0015290519877675841,
+      "50": 0.8028699129616561,
+      "60": 0.006292637026581981,
+      "80": 0.13002822865208186
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "lucerne",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.6650795494135409,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.0812333062362095,
+      "30": 0.009232377191963768,
+      "50": 0.6650795494135409,
+      "60": 0.003541981186854024,
+      "80": 0.2409127859714319
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "st_gallen",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.7004212105475737,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.27753736079856905,
+      "30": 0.02111822745369569,
+      "40": 0.0005770007501009751,
+      "50": 0.7004212105475737,
+      "60": 0.00034620045006058506
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E009_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "lugano",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.545546019532406,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.15750221959159513,
+      "30": 0.02894347440071027,
+      "40": 5.918910920390648e-05,
+      "50": 0.545546019532406,
+      "60": 0.0014205386208937555,
+      "80": 0.2665285587451909
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "matterhorn",
+    "scene_context": "mountain",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9996448653447765,
+    "dominant_class": "70",
+    "class_fractions": {
+      "60": 0.3995856762355727,
+      "70": 0.6000591891092039,
+      "80": 0.00011837821840781296,
+      "100": 0.00023675643681562593
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "saas_fee",
+    "scene_context": "mountain",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.16774193548387098,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.5274341521160106,
+      "30": 0.15087303936075763,
+      "50": 0.29476176383545427,
+      "60": 0.01680970701390944,
+      "70": 5.918910920390648e-05,
+      "80": 0.0011837821840781297,
+      "100": 0.008878366380585973
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "lausanne",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.8989072634839012,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.0943142640098171,
+      "30": 0.005142289487524105,
+      "50": 0.8989072634839012,
+      "60": 0.0015777479109448957,
+      "80": 5.843510781277391e-05
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "davos",
+    "scene_context": "mountain",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.35920060772512125,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.23379886635890842,
+      "30": 0.3589084321860574,
+      "40": 0.000701221293753287,
+      "50": 0.4061239992987787,
+      "60": 0.0002921755390638696,
+      "80": 0.00011687021562554782,
+      "100": 5.843510781277391e-05
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E009_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "andermatt",
+    "scene_context": "mountain",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.4531058259802489,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.11593525390054345,
+      "30": 0.4009232747034418,
+      "40": 0.005434465026587974,
+      "50": 0.42149243265353825,
+      "60": 0.052182551276807106,
+      "80": 0.003973587331268626,
+      "100": 5.843510781277391e-05
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "bern",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.5499361282081059,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.35286261758216236,
+      "30": 0.006445244454767158,
+      "50": 0.5499361282081059,
+      "60": 0.0009871095110904656,
+      "80": 0.08976890024387411
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "arosa",
+    "scene_context": "mountain",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.13317361070531175,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.5234616957868288,
+      "30": 0.12487582539589785,
+      "50": 0.2410448197276924,
+      "60": 0.008297785309413896,
+      "80": 0.10138491205516274,
+      "100": 0.0009349617250043826
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E009_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "grindelwald",
+    "scene_context": "mountain",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.6063226786653422,
+    "dominant_class": "30",
+    "class_fractions": {
+      "10": 0.11032548355051715,
+      "30": 0.6036930988137673,
+      "50": 0.282241570735698,
+      "60": 0.0026295798515748262,
+      "80": 0.0011102670484427043
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "payerne",
+    "scene_context": "rural",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.25438392753454886,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.13924050632911392,
+      "30": 0.176170015096969,
+      "40": 0.07821391243757984,
+      "50": 0.6060271745441876,
+      "60": 0.00034839159214957615
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "ins",
+    "scene_context": "rural",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.2536871443502497,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.2946812216931831,
+      "30": 0.1729183602369063,
+      "40": 0.0807687841133434,
+      "50": 0.4516316339565672
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "murten",
+    "scene_context": "rural",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.08471722215770526,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.22511903379398443,
+      "30": 0.0784461734990129,
+      "40": 0.00627104865869237,
+      "50": 0.3739403089072117,
+      "60": 0.00011613053071652537,
+      "80": 0.3160492393450238,
+      "90": 5.806526535826269e-05
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "thurgau_fields",
+    "scene_context": "rural",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.5154816513761468,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.40017201834862387,
+      "30": 0.3271788990825688,
+      "40": 0.18830275229357799,
+      "50": 0.0005733944954128441,
+      "60": 0.006536697247706422,
+      "80": 0.07723623853211009
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "sihlwald",
+    "scene_context": "forest",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.998845998499798,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.998845998499798,
+      "30": 0.00023080030004039005,
+      "50": 0.0009232012001615602
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "jorat",
+    "scene_context": "forest",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.30923859054519953,
+    "dominant_class": "40",
+    "class_fractions": {
+      "10": 0.30923859054519953,
+      "30": 0.31105007888739555,
+      "40": 0.3272950388593467,
+      "50": 0.05224098638461988,
+      "60": 0.00017530532343832176
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "pfynwald",
+    "scene_context": "forest",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.8997294754175488,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.8997294754175488,
+      "30": 0.07815808045165844,
+      "40": 5.8809691837214774e-05,
+      "50": 0.017584097859327217,
+      "60": 0.0017054810632792284,
+      "80": 0.002764055516349094
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "risoud",
+    "scene_context": "forest",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 1.0
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "avenches",
+    "scene_context": "rural",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.38834049471606086,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.22459644640576007,
+      "30": 0.2096156079433283,
+      "40": 0.17872488677273254,
+      "50": 0.37992103123911275,
+      "60": 0.007142027639066311
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "bremgarten_forest",
+    "scene_context": "forest",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.3907211705957496,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.3907211705957496,
+      "30": 0.22924166763442108,
+      "40": 0.252641969573801,
+      "50": 0.12733712693067006,
+      "60": 5.806526535826269e-05
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "lake_geneva",
+    "scene_context": "waterfront",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "80",
+    "class_fractions": {
+      "80": 1.0
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "lake_neuchatel",
+    "scene_context": "waterfront",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "80",
+    "class_fractions": {
+      "80": 1.0
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "echallens",
+    "scene_context": "rural",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.3809969029392859,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.28095599836381696,
+      "30": 0.13568632034126102,
+      "40": 0.2453105825980249,
+      "50": 0.3380470986968971
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "lake_biel",
+    "scene_context": "waterfront",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9043665079549413,
+    "dominant_class": "80",
+    "class_fractions": {
+      "10": 0.05225873882243642,
+      "30": 0.037103704563929855,
+      "40": 0.0023806758796887702,
+      "50": 0.0038903727790036,
+      "80": 0.9043665079549413
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "walensee",
+    "scene_context": "waterfront",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "80",
+    "class_fractions": {
+      "80": 1.0
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E009_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "rhine_falls",
+    "scene_context": "waterfront",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.2147362385321101,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.4459862385321101,
+      "30": 0.02993119266055046,
+      "40": 0.01966743119266055,
+      "50": 0.28956422018348627,
+      "60": 0.00011467889908256881,
+      "80": 0.2147362385321101
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "new_york",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9629151053107636,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.036438816384545804,
+      "30": 0.0006460783046905285,
+      "50": 0.9629151053107636
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N39W075_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "lake_thun",
+    "scene_context": "waterfront",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.0004674808625021913,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.9868521007421258,
+      "30": 0.012680418395371939,
+      "80": 0.0004674808625021913
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "san_francisco",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9878575283324339,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.0052617377226119805,
+      "30": 0.0008769562871019967,
+      "50": 0.9878575283324339,
+      "60": 0.004452239611440907,
+      "80": 0.001551538046411225
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N36W123_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "kerns_forest",
+    "scene_context": "forest",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.8769597027058413,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.8769597027058413,
+      "30": 0.12251770990593427,
+      "50": 5.806526535826269e-05,
+      "80": 0.0004645221228661015
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "washington_dc",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9698369744571316,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.02488284601676457,
+      "30": 0.0038281301564253183,
+      "40": 0.0001320044881525972,
+      "50": 0.9698369744571316,
+      "60": 0.0013200448815259718
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N36W078_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "paris",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.8463862161557395,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.045479973148355335,
+      "30": 5.594092638174088e-05,
+      "50": 0.8463862161557395,
+      "60": 0.00011188185276348176,
+      "80": 0.1079659879167599
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N48E000_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "rome",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9348307497627333,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.05491932932616261,
+      "30": 0.004745333755140778,
+      "40": 0.00044289781714647265,
+      "50": 0.9348307497627333,
+      "60": 0.0041758937045238845,
+      "80": 0.0008857956342929453
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N39E012_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "berlin",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.8311304618255326,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.1265744052246929,
+      "30": 0.014098377649924844,
+      "50": 0.8311304618255326,
+      "60": 0.002643445809360908,
+      "80": 0.025553309490488778
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N51E012_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "london",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.7052553428435064,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.19997878771808877,
+      "30": 0.012515246327623695,
+      "50": 0.7052553428435064,
+      "60": 0.013151614784960491,
+      "80": 0.06909900832582065
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N51W003_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "chicago",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.8501739955710218,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.04182220816197406,
+      "30": 0.013919645681746282,
+      "50": 0.8501739955710218,
+      "60": 0.054413160392280925,
+      "80": 0.03967099019297691
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N39W090_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "sydney",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.6729004940014114,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.19393083980239945,
+      "20": 0.024064925899788286,
+      "30": 0.035356386732533523,
+      "50": 0.6729004940014114,
+      "60": 0.07282992237120678,
+      "80": 0.00035285815102328866,
+      "90": 0.0005645730416372619
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S36E150_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "mont_blanc",
+    "scene_context": "mountain",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9993489197987571,
+    "dominant_class": "70",
+    "class_fractions": {
+      "60": 0.06605504587155964,
+      "70": 0.9332938739271974,
+      "100": 0.0006510802012429712
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "dolomites",
+    "scene_context": "mountain",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.6930988137673114,
+    "dominant_class": "30",
+    "class_fractions": {
+      "10": 0.30544030853736925,
+      "30": 0.6930988137673114,
+      "100": 0.0014608776953193479
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E009_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "rainier",
+    "scene_context": "mountain",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "70",
+    "class_fractions": {
+      "60": 0.009580768784113344,
+      "70": 0.9904192312158867
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45W123_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "tokyo",
+    "scene_context": "urban",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9294336759329517,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.06497896116437883,
+      "30": 0.0055873629026695175,
+      "50": 0.9294336759329517
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N33E138_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "mount_fuji",
+    "scene_context": "mountain",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9997219905476786,
+    "dominant_class": "60",
+    "class_fractions": {
+      "30": 0.05358632193494579,
+      "50": 0.00027800945232137893,
+      "60": 0.9461356686127328
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N33E138_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "banff",
+    "scene_context": "mountain",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.09184979731171325,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.2545871559633027,
+      "30": 0.033870279496479624,
+      "50": 0.6164924258587583,
+      "60": 0.057979517815233625,
+      "80": 0.03707062086622573
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N51W117_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "yosemite_region",
+    "scene_context": "mountain",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.15960604425256342,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.787641662169455,
+      "30": 0.15326497571505668,
+      "50": 0.05133567188343227,
+      "60": 0.006341068537506746,
+      "80": 0.0014166216945493795
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N36W120_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "normandy_fields",
+    "scene_context": "rural",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.3122602168473728,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.18409785932721712,
+      "30": 0.16191270503197108,
+      "40": 0.15034751181540174,
+      "50": 0.5009174311926605,
+      "60": 0.0026688907422852378,
+      "80": 5.560189046427579e-05
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N48W003_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "aoraki",
+    "scene_context": "mountain",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9998768548734684,
+    "dominant_class": "70",
+    "class_fractions": {
+      "30": 0.0001231451265316175,
+      "60": 0.24308847977341297,
+      "70": 0.7566652299735238,
+      "80": 0.0001231451265316175
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S45E168_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "bavaria_fields",
+    "scene_context": "rural",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.33746743685581604,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.601540378298788,
+      "30": 0.22346811643447728,
+      "40": 0.11399932042133877,
+      "50": 0.03709366859213954,
+      "80": 0.023898516253256313
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N48E009_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "kansas_fields",
+    "scene_context": "rural",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9952798829942827,
+    "dominant_class": "30",
+    "class_fractions": {
+      "30": 0.9912910517218455,
+      "40": 0.003988831272437176,
+      "50": 0.00013296104241457252,
+      "60": 0.0024597792846695918,
+      "80": 0.0021273766786331604
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N36W102_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "tuscany_fields",
+    "scene_context": "rural",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.2234068931316638,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.66179023059757,
+      "20": 0.011839821472848996,
+      "30": 0.22253905281428218,
+      "40": 0.0008678403173816018,
+      "50": 0.1007314654103645,
+      "60": 0.0022315893875526904
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N42E009_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "canterbury_fields",
+    "scene_context": "rural",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.06177370030581039,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.1635474006116208,
+      "20": 0.0003058103975535168,
+      "30": 0.050703363914373085,
+      "40": 0.01107033639143731,
+      "50": 0.771131498470948,
+      "60": 0.003241590214067278
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S45E171_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "iowa_fields",
+    "scene_context": "rural",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.3424232837709586,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.09655172413793103,
+      "30": 0.3412211325529896,
+      "40": 0.001202151217968997,
+      "50": 0.5271749446377728,
+      "60": 0.03385004745333755
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N42W096_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "hokkaido_fields",
+    "scene_context": "rural",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.024074872236931222,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.9759251277630687,
+      "30": 0.023951727110399605,
+      "40": 0.0001231451265316175
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N42E141_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "ontario_fields",
+    "scene_context": "rural",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.010775198571516533,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.5294008989594237,
+      "30": 0.01040576319192168,
+      "40": 0.00036943537959485256,
+      "50": 0.4396896742811403,
+      "60": 0.005295240440859553,
+      "80": 0.01483898774705991
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N42W081_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "black_forest",
+    "scene_context": "forest",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.4346116587839763,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.4346116587839763,
+      "30": 0.38936691549376035,
+      "40": 0.0035899481451934583,
+      "50": 0.17226052766539404,
+      "80": 5.698330389195966e-05,
+      "90": 0.00011396660778391932
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N48E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "redwood_region",
+    "scene_context": "forest",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9005479102956168,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.9005479102956168,
+      "30": 0.09441896024464831,
+      "50": 0.005033129459734964
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N39W126_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "finland_boreal",
+    "scene_context": "forest",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9707002211988252,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.9707002211988252,
+      "30": 0.017949740725967292,
+      "40": 0.005076694346738224,
+      "80": 0.006273343728469377
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N63E027_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "bavarian_forest",
+    "scene_context": "forest",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9996643544417095,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.9996643544417095,
+      "30": 0.0003356455582904453
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N48E012_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "vancouver_island_forest",
+    "scene_context": "forest",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.7948689776410481,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.7948689776410481,
+      "30": 0.18392572652859418,
+      "100": 0.021205295830357632
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N48W126_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "yakushima",
+    "scene_context": "forest",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 1.0
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N30E129_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "lake_district",
+    "scene_context": "waterfront",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0,
+    "dominant_class": "30",
+    "class_fractions": {
+      "10": 0.1442598561864617,
+      "30": 0.8552442350607489,
+      "50": 0.0004959087527894868
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N54W006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "tongass_forest",
+    "scene_context": "forest",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.11067352875363616,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.11067352875363616,
+      "30": 0.04139628552248825,
+      "50": 0.36827030655627657,
+      "60": 0.11317968225553815,
+      "70": 0.0014320877153725666,
+      "80": 0.3650033564555829,
+      "100": 4.4752741105392706e-05
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N57W135_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "lake_garda",
+    "scene_context": "waterfront",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "80",
+    "class_fractions": {
+      "80": 1.0
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E009_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "olympic_forest",
+    "scene_context": "forest",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.8656903527266511,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.8656903527266511,
+      "30": 0.12410963587668813,
+      "60": 0.004843580830816571,
+      "80": 0.005242463958060288,
+      "100": 0.00011396660778391932
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45W126_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "lake_biwa",
+    "scene_context": "waterfront",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.3418126216291354,
+    "dominant_class": "40",
+    "class_fractions": {
+      "10": 0.03217959410619961,
+      "30": 0.0581039755351682,
+      "40": 0.49325827078120654,
+      "50": 0.07200444815123715,
+      "60": 0.0026410897970531,
+      "80": 0.3418126216291354
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N33E135_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "great_sand_dunes",
+    "scene_context": "desert",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.08951699946033459,
+    "dominant_class": "30",
+    "class_fractions": {
+      "10": 0.17478413383702104,
+      "20": 0.0022935779816513763,
+      "30": 0.7037236913113869,
+      "50": 0.029681597409606044,
+      "60": 0.08951699946033459
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N36W108_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "lake_tahoe",
+    "scene_context": "waterfront",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "80",
+    "class_fractions": {
+      "80": 1.0
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N39W123_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "rhine_valley",
+    "scene_context": "waterfront",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.5993337702053299,
+      "30": 0.23094145915246833,
+      "40": 0.07492354740061162,
+      "50": 0.09480122324159021
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N48E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "ottawa_river",
+    "scene_context": "waterfront",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.45019659239842724,
+    "dominant_class": "80",
+    "class_fractions": {
+      "10": 0.11223638746574527,
+      "30": 0.03318241391635887,
+      "40": 0.00011914690813773382,
+      "50": 0.3959251757416895,
+      "60": 0.008340283569641367,
+      "80": 0.45019659239842724
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45W078_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "death_valley",
+    "scene_context": "desert",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "60",
+    "class_fractions": {
+      "60": 1.0
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N36W117_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "sossusvlei",
+    "scene_context": "desert",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9993832395343458,
+    "dominant_class": "60",
+    "class_fractions": {
+      "20": 0.0004625703492406137,
+      "30": 0.0001541901164135379,
+      "60": 0.9993832395343458
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S27E015_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "namib_naukluft",
+    "scene_context": "desert",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "60",
+    "class_fractions": {
+      "60": 1.0
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S24E015_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "atacama",
+    "scene_context": "desert",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "60",
+    "class_fractions": {
+      "60": 1.0
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S24W069_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "sahara_erg_chebbi",
+    "scene_context": "desert",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "60",
+    "class_fractions": {
+      "60": 1.0
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N30W006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "bardenas",
+    "scene_context": "desert",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.32518537137111975,
+    "dominant_class": "40",
+    "class_fractions": {
+      "20": 0.0015081060701269322,
+      "30": 0.11612416739977378,
+      "40": 0.5571823551589795,
+      "60": 0.32518537137111975
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N42W003_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "big_sur",
+    "scene_context": "coast",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.9693961385731891,
+      "20": 0.006435711351499384,
+      "30": 0.013487607832397644,
+      "50": 0.010543612214158565,
+      "60": 0.00013693002875530603
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N36W123_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "tabernas",
+    "scene_context": "desert",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.24254162419300035,
+    "dominant_class": "30",
+    "class_fractions": {
+      "10": 0.09038396194359496,
+      "20": 0.04471627590893646,
+      "30": 0.4663948352021747,
+      "40": 0.003669724770642202,
+      "50": 0.13666326877336052,
+      "60": 0.24254162419300035,
+      "80": 0.01563030920829086
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N36W003_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "jurassic_coast",
+    "scene_context": "coast",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0,
+    "dominant_class": "30",
+    "class_fractions": {
+      "10": 0.03604964921748516,
+      "30": 0.550512682137075,
+      "40": 0.41219643820831087,
+      "50": 0.00124123043712898
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N48W003_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "amalfi",
+    "scene_context": "coast",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.7533919110996252,
+    "dominant_class": "80",
+    "class_fractions": {
+      "10": 0.1292156609381057,
+      "20": 0.005814704742214756,
+      "30": 0.020739113580565963,
+      "50": 0.07384675022612741,
+      "60": 0.016474996769608476,
+      "80": 0.7533919110996252,
+      "90": 0.0005168626437524228
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N39E012_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "point_reyes_region",
+    "scene_context": "coast",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.9153552534654792,
+      "20": 0.0011384182682649166,
+      "30": 0.06247907319359807,
+      "50": 0.0062278175852139555,
+      "90": 0.014799437487443915
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N36W123_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "brittany_coast",
+    "scene_context": "coast",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0,
+    "dominant_class": "40",
+    "class_fractions": {
+      "10": 0.14259825574810284,
+      "30": 0.3766564729867482,
+      "40": 0.4727035904405935,
+      "50": 0.008041680824555442
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N48W006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "algarve",
+    "scene_context": "coast",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.31240231056744816,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.014475025484199796,
+      "30": 0.14352701325178388,
+      "40": 0.001291199456337071,
+      "50": 0.4413183826027863,
+      "60": 0.08664627930682976,
+      "80": 0.31240231056744816,
+      "90": 0.0003397893306150187
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N36W009_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "great_ocean_road",
+    "scene_context": "coast",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9889642334795905,
+    "dominant_class": "80",
+    "class_fractions": {
+      "10": 0.0019279351150113017,
+      "30": 0.007246376811594203,
+      "60": 0.0018614545938040155,
+      "80": 0.9889642334795905
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S39E141_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "nova_scotia_coast",
+    "scene_context": "coast",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.8507199708366243,
+    "dominant_class": "80",
+    "class_fractions": {
+      "10": 0.0009721125220244244,
+      "30": 0.07041740081414424,
+      "50": 0.04435263381736436,
+      "60": 0.03347712497721611,
+      "80": 0.8507199708366243,
+      "90": 6.075703262652652e-05
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N42W066_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "ito_coast",
+    "scene_context": "coast",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.18918543230469836,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.10863219349457881,
+      "30": 0.00660272449263275,
+      "40": 0.0009730330831248262,
+      "50": 0.6886989157631359,
+      "60": 0.0059077008618293025,
+      "80": 0.18918543230469836
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N33E138_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "coromandel",
+    "scene_context": "coast",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.06068637444784234,
+    "dominant_class": "50",
+    "class_fractions": {
+      "10": 0.027862725110431533,
+      "30": 0.42623173632347944,
+      "40": 0.03948352021746517,
+      "50": 0.4288820931022766,
+      "60": 0.01617397213727489,
+      "80": 0.06068637444784234,
+      "90": 0.0006795786612300374
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S39E174_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "vatnajokull",
+    "scene_context": "snow_ice",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "70",
+    "class_fractions": {
+      "70": 1.0
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N63W018_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "langjokull",
+    "scene_context": "snow_ice",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "70",
+    "class_fractions": {
+      "70": 1.0
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N63W021_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "columbia_icefield",
+    "scene_context": "snow_ice",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.09831109257714762,
+    "dominant_class": "60",
+    "class_fractions": {
+      "60": 0.901011259382819,
+      "70": 0.09831109257714762,
+      "80": 0.0006255212677231026,
+      "100": 5.212677231025855e-05
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N51W120_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "hintertux_glacier",
+    "scene_context": "snow_ice",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.9936708860759493,
+    "dominant_class": "70",
+    "class_fractions": {
+      "60": 0.006329113924050633,
+      "70": 0.9936708860759493
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E009_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "snaefellsjokull",
+    "scene_context": "snow_ice",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "70",
+    "class_fractions": {
+      "70": 1.0
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N63W024_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "jostedalsbreen",
+    "scene_context": "snow_ice",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.627531018874025,
+    "dominant_class": "70",
+    "class_fractions": {
+      "30": 0.09651214484904821,
+      "60": 0.12169098330841047,
+      "70": 0.627531018874025,
+      "100": 0.15426585296851636
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N60E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "hardangerjokulen",
+    "scene_context": "snow_ice",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 1.0,
+    "dominant_class": "70",
+    "class_fractions": {
+      "70": 1.0
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N60E006_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "hintereisferner",
+    "scene_context": "snow_ice",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.8471921930695963,
+    "dominant_class": "70",
+    "class_fractions": {
+      "60": 0.12341494770057851,
+      "70": 0.8471921930695963,
+      "100": 0.02939285922982528
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N45E009_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "pico_duarte",
+    "scene_context": "mountain",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.382262996941896,
+    "dominant_class": "10",
+    "class_fractions": {
+      "10": 0.6135522291968454,
+      "20": 0.004184773861258651,
+      "30": 0.382262996941896
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N18W072_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "mojave",
+    "scene_context": "desert",
+    "status": "MIXED_OR_CONTEXT_LABEL_REVIEW_REQUIRED",
+    "support_fraction": 0.06679177092021128,
+    "dominant_class": "20",
+    "class_fractions": {
+      "20": 0.6556852932999722,
+      "30": 0.2775229357798165,
+      "60": 0.06679177092021128
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N33W117_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  },
+  {
+    "site_id": "simpson_desert",
+    "scene_context": "desert",
+    "status": "MODEL_CONTEXT_SUPPORT",
+    "support_fraction": 0.37075013491635184,
+    "dominant_class": "60",
+    "class_fractions": {
+      "20": 0.2803947266980187,
+      "30": 0.3488551383856295,
+      "60": 0.37075013491635184
+    },
+    "scope": "Approximate 1km anchor neighborhood only, not the entire regional 1-degree source tile",
+    "source_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S27E135_Map.tif",
+    "attribution": "\u00a9 ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium",
+    "license": "CC BY 4.0",
+    "independent_pixel_ground_truth": false,
+    "temporal_mismatch_possible": true
+  }
+]

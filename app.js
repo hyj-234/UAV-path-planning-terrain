@@ -33,7 +33,8 @@ async function show(d,version){
  const aspect={x:Math.max(spans.x/extent,1e-6),y:Math.max(spans.y/extent,1e-6),z:Math.max(spans.z/extent,1e-6)};
  await Plotly.react('surface',[{type:'surface',x:ix.map(i=>d.x[i]),y:iy.map(i=>d.y[i]),z:iy.map(j=>ix.map(i=>d.z[j][i])),connectgaps:false,colorscale:'Earth',cmin:min,cmax:max,hovertemplate:hover,colorbar:{title:{text:'高程'+(d.z_unit?'（'+d.z_unit+'）':'（源单位）')}}}],{margin:{l:0,r:85,t:15,b:15},scene:{aspectmode:'manual',aspectratio:aspect,xaxis:{title:{text:'X'}},yaxis:{title:{text:'Y'}},zaxis:{title:{text:'高程'}},camera:{eye:{x:1.9,y:-2,z:1.5}}}},cfg);
  if(version!==loadVersion){viewBusy=false;return;}
- $('scope').textContent=d.scope||'源文件全范围预览';$('provenance').textContent='来源：'+(d.source||'用户本地文件');
+ $('scope').textContent=d.scope||'源文件全范围预览';const kind=d.metadata&&d.metadata.surface_kind;const notice=kind&&kind.startsWith('GLO')?'produced using Copernicus WorldDEM-'+kind.slice(3)+' ':'';
+ $('provenance').textContent='来源：'+notice+(d.source||'用户本地文件');
  $('metadata').textContent=JSON.stringify(d.metadata||{},null,2);
  $('status').textContent=d.title+' · 全范围 '+d.z[0].length+'×'+d.z.length+' 显示网格 · 高程 '+min.toFixed(3)+' 至 '+max.toFixed(3)+(d.z_unit?' '+d.z_unit:'（源单位）');viewBusy=false;
 }
@@ -44,6 +45,7 @@ window.registerTerrain=async function(id,d){
 function loadSelected(){
  ++loadVersion;++detailVersion;localImage=null;$('error').textContent='';$('status').textContent='加载完整范围…';
  const t=window.TERRAIN_CATALOG.find(t=>t.id===$('terrain').value);if(!t)return;
+ $('download').hidden=!(t.url||t.official_download_url);if(!$('download').hidden)$('download').href=t.url||t.official_download_url;
  if(t.url){const version=loadVersion;GeoTIFF.fromUrl(t.url).then(tiff=>openDataset(tiff,t.title,version,t)).catch(e=>{if(version===loadVersion)error(e);});return;}
  const script=document.createElement('script');script.src=t.file;
  script.onerror=()=>error(Error('找不到地图文件，请保留整个文件夹'));
@@ -57,12 +59,14 @@ async function openTiff(file,version){
 }
 async function openDataset(tiff,name,version,entry){
  const image=await tiff.getImage();
- const bbox=image.getBoundingBox();if(bbox.length!==4||!bbox.every(finite))throw Error('文件没有可识别的地理范围');
+ const nativeBBox=image.getBoundingBox();if(nativeBBox.length!==4||!nativeBBox.every(finite))throw Error('文件没有可识别的地理范围');
+ const keys=image.getGeoKeys(),angular=keys.GTModelTypeGeoKey===2;
+ const bbox=angular?[0,0,(nativeBBox[2]-nativeBBox[0])*111320*Math.cos((nativeBBox[1]+nativeBBox[3])/2*Math.PI/180),(nativeBBox[3]-nativeBBox[1])*110574]:nativeBBox;
  const width=image.getWidth(),height=image.getHeight(),scale=Math.min(1,600/Math.max(width,height));
  const w=Math.max(2,Math.round(width*scale)),h=Math.max(2,Math.round(height*scale));
  const raw=await image.readRasters({samples:[0],width:w,height:h,resampleMethod:'nearest'});
  const nodata=image.getGDALNoData(),dx=(bbox[2]-bbox[0])/w,dy=(bbox[3]-bbox[1])/h;
- const d={title:name,source:entry?entry.source:'浏览器本地读取；没有上传文件',x:Array.from({length:w},(_,i)=>bbox[0]+(i+.5)*dx),y:Array.from({length:h},(_,j)=>bbox[3]-(j+.5)*dy),z:cleanRasters(raw,w,h,nodata),scope:'源GeoTIFF完整范围。二维放大时重新读取源像元；三维显示全幅概览。'+(entry?' © swisstopo；场景为地点语境标签，尚未逐像元独立审核。':''),metadata:{...(entry?entry.metadata:{}),native_width:width,native_height:height,bounds:bbox,geokeys:image.getGeoKeys(),nodata}};
+ const d={title:name,xy_unit:angular?'m（显示近似）':undefined,z_unit:entry?'m（产品约定）':undefined,source:entry?entry.source:'浏览器本地读取；没有上传文件',x:Array.from({length:w},(_,i)=>bbox[0]+(i+.5)*dx),y:Array.from({length:h},(_,j)=>bbox[3]-(j+.5)*dy),z:cleanRasters(raw,w,h,nodata),scope:'源GeoTIFF完整范围。二维放大时重新读取源像元；三维显示全幅概览。'+(angular?' 经纬度栅格以局部米制近似显示；不用于导航定位。':'')+(entry?' '+entry.metadata.planning_use+' 标签复核：'+entry.metadata.scene_label_audit:''),metadata:{...(entry?entry.metadata:{}),native_width:width,native_height:height,bounds:nativeBBox,display_bbox:bbox,geographic_display_approximation:angular?'Local equirectangular metric approximation for display only, not navigation':false,geokeys:keys,nodata}};
  await show(d,version);if(version===loadVersion)localImage={image,bbox,nodata,width,height};
 }
 async function zoomDetail(event){

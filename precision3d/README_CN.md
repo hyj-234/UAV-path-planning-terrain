@@ -2,6 +2,8 @@
 
 # 精密低空三维多无人机规划数据与规范 v0.1
 
+第一次使用请读[小白使用说明](../使用说明_小白版_CN.md)，包含端点覆盖情况、各文件用途及可执行的双机示例。本目录并未为所有真实场景提供已验证起终点对。
+
 [真实起飞、悬停与降落点核验](真实起飞悬停降落点核验_CN.md)：已对32个预登记真实位置完成原始点云几何初筛，6个列入综合待复核清单；当前实机起降/悬停认证点仍为0。代码、全部失败/未知记录和筛选假设位于`endpoint_validation/`。
 
 提供可选的参考飞机参数、低空点到点/桥下穿越/多机交叉让行/到达占位任务及成功条件。使用者可以直接使用场景，自行设计或修改任务；仅在同一组算法比较中统一任务与配置。自定义结果应注明参数和评测版本。
@@ -46,7 +48,7 @@ PCD头及获取的元数据未明示可核验的坐标单位与轴向，默认VI
 
 ## 可运行的统一接口
 
-依赖：Python 3.10+，numpy；原件处理另需laspy+lazrs。当前环境路径为 `E:\lsy\paper2_FACO_PPO_DDPG\.venv\Scripts\python.exe`。重新获取原件运行 `acquire.py`、`acquire_bridge.py`，解析运行 `prepare_geometry.py`、`prepare_bridge.py`。
+依赖：Python 3.11+，numpy；原件处理另需laspy+lazrs。当前环境路径为 `E:\lsy\paper2_FACO_PPO_DDPG\.venv\Scripts\python.exe`。重新获取原件运行 `acquire.py`、`acquire_bridge.py`，解析运行 `prepare_geometry.py`、`prepare_bridge.py`。
 
 ```powershell
 python test_evaluate.py

@@ -2,6 +2,10 @@
 
 A browser-based terrain viewer with offline support. Open `index.html` directly in a browser. No UAV simulator, server, or account is needed to view a GeoTIFF.
 
+**第一次使用或给小白讲解，请先读：[小白使用说明与十分钟讲解稿](使用说明_小白版_CN.md)**。包含在线入口、下载步骤、目录作用、代码阅读顺序和已经跑通的双机示例。
+
+**端点覆盖说明：目前没有为全部真实地形配齐推荐起终点。** 6个真实单点几何候选、栅格参考诊断和30个合成任务分别记录；单点初筛通过不表示完整航线已验证，详见小白说明第1节。
+
 ## 使用
 
 双击 `index.html`，点击“打开本地 GeoTIFF / JSON”选择高程文件。二维图滚轮/拖框放大，三维拖动旋转。读取发生在浏览器本地，不上传文件。源码版首次加载需要联网获取固定版本绘图库；完整离线使用可先运行 `python tools/download_vendor.py`，之后查看无需Python或网络。

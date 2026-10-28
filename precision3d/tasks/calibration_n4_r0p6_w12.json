@@ -1,0 +1,121 @@
+{
+  "schema_version": "uav3d-0.1",
+  "id": "calibration_n4_r0p6_w12",
+  "world_id": "synthetic_bridge_w12",
+  "source_kind": "SYNTHETIC_PROTOCOL_CALIBRATION_ONLY",
+  "agents": [
+    {
+      "id": "uav_00",
+      "radius_m": 0.6,
+      "start": [
+        3.0,
+        -9.35,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        9.35,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uav_01",
+      "radius_m": 0.6,
+      "start": [
+        3.0,
+        -3.1166666666666663,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        3.1166666666666663,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uav_02",
+      "radius_m": 0.6,
+      "start": [
+        3.0,
+        3.116666666666667,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        -3.116666666666667,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uav_03",
+      "radius_m": 0.6,
+      "start": [
+        3.0,
+        9.35,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        -9.35,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "map_margin_m": 0.15,
+  "tracking_margin_m": 0.1,
+  "separation_margin_m": 0.3,
+  "limits": {
+    "runtime_budget_s": 10.0,
+    "mission_deadline_s": 600.0,
+    "speed_mps": 5.0,
+    "acceleration_mps2": 2.0,
+    "endpoint_tolerance_m": 0.02
+  },
+  "difficulty": {
+    "fleet_size": 4,
+    "body_radius_m": 0.6,
+    "bridge_half_width_m": 12,
+    "crossing": "symmetric center convergence",
+    "endpoint_height_m": 4.0
+  }
+}

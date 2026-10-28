@@ -1,0 +1,83 @@
+{
+  "crs": "EPSG:2056 + EPSG:5728",
+  "local_origin": [
+    2681000.0,
+    1248000.0,
+    390.0
+  ],
+  "point_clouds": [
+    {
+      "file": "swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "points": 27156741,
+      "nonfinite": 0,
+      "withheld_points": 0,
+      "classes": {
+        "1": 1195223,
+        "2": 13341205,
+        "3": 4920172,
+        "6": 5547861,
+        "14": 64942,
+        "15": 110450,
+        "17": 1032073,
+        "26": 792798,
+        "27": 152017
+      },
+      "min": [
+        2681000.0,
+        1248000.0,
+        399.19
+      ],
+      "max": [
+        2681999.99,
+        1248999.99,
+        539.33
+      ],
+      "sensor_origins_available": false,
+      "free_space_status": "UNKNOWN_NO_RAY_ORIGIN_EVIDENCE",
+      "synthetic_points_used_as_free_space": false
+    },
+    {
+      "file": "swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+      "points": 25779745,
+      "nonfinite": 0,
+      "withheld_points": 0,
+      "classes": {
+        "1": 655033,
+        "2": 10845534,
+        "3": 4077517,
+        "6": 7960118,
+        "9": 383491,
+        "14": 19705,
+        "15": 14247,
+        "17": 668239,
+        "26": 1066572,
+        "27": 89289
+      },
+      "min": [
+        2681000.0,
+        1249000.0,
+        396.5
+      ],
+      "max": [
+        2681999.99,
+        1249999.99,
+        498.11
+      ],
+      "sensor_origins_available": false,
+      "free_space_status": "UNKNOWN_NO_RAY_ORIGIN_EVIDENCE",
+      "synthetic_points_used_as_free_space": false
+    }
+  ],
+  "buildings": {
+    "source_members": 9215,
+    "objects_with_coordinates": 9214,
+    "unique_polygons": 2648271,
+    "overlapping_lidar_objects": 936,
+    "invalid_rings": 0,
+    "two_incidence_objects": 118,
+    "epoch_mismatch": "Building source nominal 2019, lidar nominal 2024; no co-temporal ground-truth claim",
+    "warning": "Source CityGML retains full original; derived overlap is explicitly a subset; no synthetic height extrusion"
+  },
+  "underbridge_status": "REAL_DECK_AND_PIER_OBSERVATIONS_AVAILABLE; FREE_SPACE_UNQUALIFIED",
+  "fully_qualified_real_underbridge_routes": 0
+}

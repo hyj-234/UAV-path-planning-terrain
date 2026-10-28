@@ -1,0 +1,12 @@
+{
+  "count": 5,
+  "ids": [
+    "zurich_candidate_n1",
+    "zurich_candidate_n2",
+    "zurich_candidate_n4",
+    "zurich_candidate_n6",
+    "zurich_candidate_n12"
+  ],
+  "status": "UNQUALIFIED",
+  "qualified_underbridge_routes": 0
+}

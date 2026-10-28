@@ -3,6 +3,6 @@
 <title>UAV path planning terrain</title><link rel="stylesheet" href="style.css">
 <header><h1>UAV path planning terrain</h1><p>100个登记地点 · 20个国家 · 200份栅格。精细32处，区域68处；按用途分层查看。</p>
 <nav><label>来源组 <select id="group"></select></label><label>数据产品 <select id="terrain"></select></label><label class="file">打开本地 GeoTIFF / JSON<input id="file" type="file" accept=".tif,.tiff,.json"></label><button id="reset">恢复视角</button><a id="download" target="_blank" rel="noopener">下载官方原始GeoTIFF</a></nav>
-<p class="hint">二维：滚轮或拖框放大，工具栏手形平移。三维：拖动旋转，滚轮缩放，右键平移。悬停读取高程。</p><p id="status" aria-live="polite">正在加载…</p><p id="error" role="alert"></p></header>
+<p class="hint">二维：滚轮或拖框放大，工具栏手形平移。三维：拖动旋转，滚轮缩放，右键平移。悬停读取高程。</p><p><a href="precision3d/index.html">新增：真实建筑、桥梁三维点云与多无人机统一评测规范</a>（研究预发布；真实桥下可飞空间尚未认证）</p><p id="status" aria-live="polite">正在加载…</p><p id="error" role="alert"></p></header>
 <main><div class="plots"><section><h2>二维高程</h2><div id="flat" class="plot"></div></section><section><h2>三维地形 · 按源坐标比例</h2><div id="surface" class="plot"></div></section></div><section class="meta"><p id="scope"></p><p id="provenance"></p><details><summary>范围、分辨率与数据来源</summary><pre id="metadata"></pre></details><p class="hint">本地文件在浏览器内读取，不上传。缺测区域保持空白；预览降采样不改变源文件或缩小源文件覆盖范围。</p></section></main>
 <script src="catalog.js"></script><script src="load-libraries.js"></script></html>

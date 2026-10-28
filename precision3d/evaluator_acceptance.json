@@ -1,0 +1,7 @@
+{
+  "tests": 13,
+  "failures": 0,
+  "errors": 0,
+  "passed": true,
+  "scope": "Analytic quadratic trajectories and AABB geometry only"
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": "uav3d-0.1",
+  "id": "synthetic_bridge_w14",
+  "unknown_policy": "blocked",
+  "bounds": [
+    [
+      0,
+      -15,
+      0
+    ],
+    [
+      40,
+      15,
+      16
+    ]
+  ],
+  "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+  "free_boxes": [
+    {
+      "lo": [
+        0,
+        -15,
+        0
+      ],
+      "hi": [
+        40,
+        15,
+        16
+      ],
+      "evidence_ref": "synthetic construction; occupied boxes take precedence"
+    }
+  ],
+  "occupied_boxes": [
+    {
+      "lo": [
+        0,
+        -15,
+        0
+      ],
+      "hi": [
+        40,
+        15,
+        1
+      ],
+      "semantic": "ground"
+    },
+    {
+      "lo": [
+        0,
+        -14,
+        8
+      ],
+      "hi": [
+        40,
+        14,
+        9
+      ],
+      "semantic": "bridge_deck"
+    },
+    {
+      "lo": [
+        11,
+        -14,
+        1
+      ],
+      "hi": [
+        13,
+        -12,
+        8
+      ],
+      "semantic": "bridge_pier"
+    },
+    {
+      "lo": [
+        11,
+        12,
+        1
+      ],
+      "hi": [
+        13,
+        14,
+        8
+      ],
+      "semantic": "bridge_pier"
+    },
+    {
+      "lo": [
+        27,
+        -14,
+        1
+      ],
+      "hi": [
+        29,
+        -12,
+        8
+      ],
+      "semantic": "bridge_pier"
+    },
+    {
+      "lo": [
+        27,
+        12,
+        1
+      ],
+      "hi": [
+        29,
+        14,
+        8
+      ],
+      "semantic": "bridge_pier"
+    }
+  ]
+}

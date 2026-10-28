@@ -1,0 +1,270 @@
+[
+  {
+    "file": "Aqueduct_all.pcd",
+    "points": 14760647,
+    "nonfinite": 0,
+    "header": {
+      "VERSION": [
+        "0.7"
+      ],
+      "FIELDS": [
+        "rgb",
+        "normal_x",
+        "normal_y",
+        "normal_z",
+        "x",
+        "y",
+        "z",
+        "_"
+      ],
+      "SIZE": [
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "1"
+      ],
+      "TYPE": [
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "U"
+      ],
+      "COUNT": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "4"
+      ],
+      "WIDTH": [
+        "14760647"
+      ],
+      "HEIGHT": [
+        "1"
+      ],
+      "VIEWPOINT": [
+        "0",
+        "0",
+        "0",
+        "1",
+        "0",
+        "0",
+        "0"
+      ],
+      "POINTS": [
+        "14760647"
+      ],
+      "DATA": [
+        "binary"
+      ]
+    },
+    "min": [
+      907.9404296875,
+      1818.099365234375,
+      95.68329620361328
+    ],
+    "max": [
+      1550.9715576171875,
+      2199.493408203125,
+      150.16619873046875
+    ],
+    "raw_label_histogram": {},
+    "label_semantics": "NOT_DOCUMENTED_IN_DATASET_METADATA",
+    "coordinate_unit": "NOT_DECLARED_IN_PCD_HEADER_OR_RETRIEVED_METADATA",
+    "source_station_poses": "NOT_PROVIDED; VIEWPOINT 0 0 0 1 0 0 0 is not validated as a scanner station",
+    "underbridge_free_space": "UNKNOWN; missing rays/coverage evidence",
+    "planning_qualification": "REAL_GEOMETRY_RESEARCH_ONLY_UNTIL_SCALE_REGISTRATION_AND_FREE_SPACE_VALIDATION"
+  },
+  {
+    "file": "Aqueduct_labeled.pcd",
+    "points": 8448075,
+    "nonfinite": 0,
+    "header": {
+      "VERSION": [
+        "0.7"
+      ],
+      "FIELDS": [
+        "Constant",
+        "rgb",
+        "normal_x",
+        "normal_y",
+        "normal_z",
+        "x",
+        "y",
+        "z",
+        "_"
+      ],
+      "SIZE": [
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "1"
+      ],
+      "TYPE": [
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "U"
+      ],
+      "COUNT": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "4"
+      ],
+      "WIDTH": [
+        "8448075"
+      ],
+      "HEIGHT": [
+        "1"
+      ],
+      "VIEWPOINT": [
+        "0",
+        "0",
+        "0",
+        "1",
+        "0",
+        "0",
+        "0"
+      ],
+      "POINTS": [
+        "8448075"
+      ],
+      "DATA": [
+        "binary"
+      ]
+    },
+    "min": [
+      975.8529052734375,
+      1979.75244140625,
+      101.595703125
+    ],
+    "max": [
+      996.1744995117188,
+      2026.7431640625,
+      112.58709716796875
+    ],
+    "raw_label_histogram": {
+      "0.0": 477294,
+      "1.0": 7970781
+    },
+    "label_semantics": "NOT_DOCUMENTED_IN_DATASET_METADATA",
+    "coordinate_unit": "NOT_DECLARED_IN_PCD_HEADER_OR_RETRIEVED_METADATA",
+    "source_station_poses": "NOT_PROVIDED; VIEWPOINT 0 0 0 1 0 0 0 is not validated as a scanner station",
+    "underbridge_free_space": "UNKNOWN; missing rays/coverage evidence",
+    "planning_qualification": "REAL_GEOMETRY_RESEARCH_ONLY_UNTIL_SCALE_REGISTRATION_AND_FREE_SPACE_VALIDATION"
+  },
+  {
+    "file": "Aqueduct_rotated.pcd",
+    "points": 17043155,
+    "nonfinite": 0,
+    "header": {
+      "VERSION": [
+        "0.7"
+      ],
+      "FIELDS": [
+        "rgb",
+        "normal_x",
+        "normal_y",
+        "normal_z",
+        "x",
+        "y",
+        "z",
+        "_"
+      ],
+      "SIZE": [
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "1"
+      ],
+      "TYPE": [
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "U"
+      ],
+      "COUNT": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "4"
+      ],
+      "WIDTH": [
+        "17043155"
+      ],
+      "HEIGHT": [
+        "1"
+      ],
+      "VIEWPOINT": [
+        "0",
+        "0",
+        "0",
+        "1",
+        "0",
+        "0",
+        "0"
+      ],
+      "POINTS": [
+        "17043155"
+      ],
+      "DATA": [
+        "binary"
+      ]
+    },
+    "min": [
+      -6.486083984375,
+      -34.5545654296875,
+      -6.024200439453125
+    ],
+    "max": [
+      6.4879150390625,
+      34.544921875,
+      6.0160980224609375
+    ],
+    "raw_label_histogram": {},
+    "label_semantics": "NOT_DOCUMENTED_IN_DATASET_METADATA",
+    "coordinate_unit": "NOT_DECLARED_IN_PCD_HEADER_OR_RETRIEVED_METADATA",
+    "source_station_poses": "NOT_PROVIDED; VIEWPOINT 0 0 0 1 0 0 0 is not validated as a scanner station",
+    "underbridge_free_space": "UNKNOWN; missing rays/coverage evidence",
+    "planning_qualification": "REAL_GEOMETRY_RESEARCH_ONLY_UNTIL_SCALE_REGISTRATION_AND_FREE_SPACE_VALIDATION"
+  }
+]

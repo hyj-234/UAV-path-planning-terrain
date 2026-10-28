@@ -1,0 +1,47 @@
+[
+  {
+    "filename": "Aqueduct_all.pcd",
+    "path": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\Aqueduct_all.pcd",
+    "bytes": 472340945,
+    "sha256": "6fb7806d474bbe7d32b80e93e4b686f7df4cd6be008f45ca0ffc98634ffbba9b",
+    "official_hash_verified": true,
+    "license": "CC BY 4.0",
+    "doi": "10.17632/znxxsgn2ky.2",
+    "source_url": "https://data.mendeley.com/datasets/znxxsgn2ky/2",
+    "download_url": "https://data.mendeley.com/public-files/datasets/znxxsgn2ky/files/d2e82788-287e-48d7-b7f9-4a0bfa212580/file_downloaded",
+    "attribution": "Yunping Fang, Jelena Ninic, Stergios Mitoulis, Daniel Boddice, Jialiang Yu (2025)",
+    "independent_acquisition_group": "birmingham_aqueduct_tls",
+    "elapsed_s": 28.59238059999916,
+    "qualification": "SOURCE_VERIFIED; COORDINATES_AND_VISIBILITY_QA_PENDING"
+  },
+  {
+    "filename": "Aqueduct_labeled.pcd",
+    "path": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\Aqueduct_labeled.pcd",
+    "bytes": 304130954,
+    "sha256": "5c0d93d438b309e2b18331ed8a14e5847f3ce86bc8f1a594225f632a9243c7bd",
+    "official_hash_verified": true,
+    "license": "CC BY 4.0",
+    "doi": "10.17632/znxxsgn2ky.2",
+    "source_url": "https://data.mendeley.com/datasets/znxxsgn2ky/2",
+    "download_url": "https://data.mendeley.com/public-files/datasets/znxxsgn2ky/files/22d9ccc4-94ba-409a-b13b-ad92e6a2a250/file_downloaded",
+    "attribution": "Yunping Fang, Jelena Ninic, Stergios Mitoulis, Daniel Boddice, Jialiang Yu (2025)",
+    "independent_acquisition_group": "birmingham_aqueduct_tls",
+    "elapsed_s": 18.343955199999982,
+    "qualification": "SOURCE_VERIFIED; COORDINATES_AND_VISIBILITY_QA_PENDING"
+  },
+  {
+    "filename": "Aqueduct_rotated.pcd",
+    "path": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\Aqueduct_rotated.pcd",
+    "bytes": 545381201,
+    "sha256": "d9cec7272f25adf3e174b7b34d678876d57337dc3a66478ecd4e5970148a6028",
+    "official_hash_verified": true,
+    "license": "CC BY 4.0",
+    "doi": "10.17632/znxxsgn2ky.2",
+    "source_url": "https://data.mendeley.com/datasets/znxxsgn2ky/2",
+    "download_url": "https://data.mendeley.com/public-files/datasets/znxxsgn2ky/files/97c348a5-195b-4f2a-bdbd-68bca1694e46/file_downloaded",
+    "attribution": "Yunping Fang, Jelena Ninic, Stergios Mitoulis, Daniel Boddice, Jialiang Yu (2025)",
+    "independent_acquisition_group": "birmingham_aqueduct_tls",
+    "elapsed_s": 30.857447399999728,
+    "qualification": "SOURCE_VERIFIED; COORDINATES_AND_VISIBILITY_QA_PENDING"
+  }
+]

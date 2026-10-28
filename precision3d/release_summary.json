@@ -1,0 +1,13 @@
+{
+  "native_file_count": 6,
+  "native_bytes": 1817397944,
+  "official_sha256_verified": 6,
+  "source_areas": [
+    "Zurich adjacent 1km tiles",
+    "Birmingham Aqueduct single TLS acquisition"
+  ],
+  "synthetic_task_count": 30,
+  "reference_runs": 90,
+  "qualified_real_underbridge_routes": 0,
+  "prerelease": true
+}

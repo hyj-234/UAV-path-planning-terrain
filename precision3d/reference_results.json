@@ -1,0 +1,4760 @@
+[
+  {
+    "task_id": "calibration_n1_r0p25_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 0.00011730000005627517,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.0071196999997482635,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n1_r0p25_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 4.859999899053946e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.0024508000005880604,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n1_r0p25_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 4.3799998820759356e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.0025222000003850553,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n1_r0p4_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 5.030000102124177e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.002408399999694666,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n1_r0p4_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 4.7399998948094435e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.0023412000009557232,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n1_r0p4_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 4.3399999412940815e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.0023300000011658994,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n1_r0p6_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 4.910000097879674e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.002318000000741449,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n1_r0p6_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 4.5700000555370934e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.0023421000005328096,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n1_r0p6_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 4.569999873638153e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.002324500001122942,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n2_r0p25_w12",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01"
+    ],
+    "completed_agents": 0,
+    "total_agents": 2,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 6.910000047355425e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.006040299998858245,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n2_r0p25_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 2,
+    "total_agents": 2,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 12.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 8.762159086766468,
+    "runtime_wall_s": 7.670000013604295e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 12.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.006410100000721286,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n2_r0p25_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 2,
+    "total_agents": 2,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 22.521288606298125,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 16.3852374922533,
+    "runtime_wall_s": 7.360000017797574e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 22.521288606298125,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.006344899999021436,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n2_r0p4_w12",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01"
+    ],
+    "completed_agents": 0,
+    "total_agents": 2,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 7.48999991628807e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.0062646000005770475,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n2_r0p4_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 2,
+    "total_agents": 2,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 12.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 8.762159086766468,
+    "runtime_wall_s": 8.309999975608662e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 12.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.00646000000051572,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n2_r0p4_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 2,
+    "total_agents": 2,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 22.521288606298125,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 16.3852374922533,
+    "runtime_wall_s": 9.469999895372894e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 22.521288606298125,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.006497600001239334,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n2_r0p6_w12",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01"
+    ],
+    "completed_agents": 0,
+    "total_agents": 2,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 6.940000093891285e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.005658800000674091,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n2_r0p6_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 2,
+    "total_agents": 2,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 12.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 8.762159086766468,
+    "runtime_wall_s": 7.470000127796084e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 12.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.006686300001092604,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n2_r0p6_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 2,
+    "total_agents": 2,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 22.521288606298125,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 16.3852374922533,
+    "runtime_wall_s": 7.200000072771218e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 22.521288606298125,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.0062218000002758345,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n4_r0p25_w12",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_03",
+      "PAIR_COLLISION:uav_01:uav_02"
+    ],
+    "completed_agents": 0,
+    "total_agents": 4,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 9.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 9.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.00014729999929841142,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.012674499999775435,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n4_r0p25_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 4,
+    "total_agents": 4,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 11.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 13.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 16.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 5.4617458307510995,
+    "runtime_wall_s": 0.0001298000006499933,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 16.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.01482919999943988,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n4_r0p25_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 4,
+    "total_agents": 4,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 21.673977636482395,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 33.934621939631455,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 47.04257721259625,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 5.4617458307510995,
+    "runtime_wall_s": 0.00013000000035390258,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 47.04257721259625,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.014291299999968032,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n4_r0p4_w12",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_03",
+      "PAIR_COLLISION:uav_01:uav_02"
+    ],
+    "completed_agents": 0,
+    "total_agents": 4,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 9.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 9.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.00011930000073334668,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.01238780000130646,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n4_r0p4_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 4,
+    "total_agents": 4,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 11.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 13.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 16.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 5.4617458307510995,
+    "runtime_wall_s": 0.00013140000010025688,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 16.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.014696399999593268,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n4_r0p4_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 4,
+    "total_agents": 4,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 21.673977636482395,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 33.934621939631455,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 47.04257721259625,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 5.4617458307510995,
+    "runtime_wall_s": 0.00012989999959245324,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 47.04257721259625,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.013885000000300352,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n4_r0p6_w12",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_03",
+      "PAIR_COLLISION:uav_01:uav_02"
+    ],
+    "completed_agents": 0,
+    "total_agents": 4,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 9.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 9.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.00011690000064845663,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.012425500000972534,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n4_r0p6_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 4,
+    "total_agents": 4,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 11.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 13.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 16.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 5.4617458307510995,
+    "runtime_wall_s": 0.00012960000094608404,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 16.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.01413239999965299,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n4_r0p6_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 4,
+    "total_agents": 4,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 21.673977636482395,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 33.934621939631455,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 47.04257721259625,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 5.4617458307510995,
+    "runtime_wall_s": 0.00019809999866993167,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 47.04257721259625,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.014295799999672454,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n6_r0p25_w12",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_05",
+      "PAIR_COLLISION:uav_01:uav_02",
+      "PAIR_COLLISION:uav_01:uav_03",
+      "PAIR_COLLISION:uav_01:uav_04",
+      "PAIR_COLLISION:uav_02:uav_03",
+      "PAIR_COLLISION:uav_02:uav_04",
+      "PAIR_COLLISION:uav_03:uav_04"
+    ],
+    "completed_agents": 0,
+    "total_agents": 6,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 9.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 9.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 9.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 9.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.00020740000036312267,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.020576599999913014,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n6_r0p25_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 6,
+    "total_agents": 6,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 11.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 13.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 15.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 17.66069382113214,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 20.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 3.277047498450659,
+    "runtime_wall_s": 0.00019549999888113234,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 20.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.02344509999966249,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n6_r0p25_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 6,
+    "total_agents": 6,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 21.921338124281203,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 33.862304905065436,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 46.12294920821449,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 58.70327103372839,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 71.56386581889437,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 3.277047498450659,
+    "runtime_wall_s": 0.0001833000005717622,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 71.56386581889437,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.023325600001044222,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n6_r0p4_w12",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_05",
+      "PAIR_COLLISION:uav_01:uav_02",
+      "PAIR_COLLISION:uav_01:uav_03",
+      "PAIR_COLLISION:uav_01:uav_04",
+      "PAIR_COLLISION:uav_02:uav_03",
+      "PAIR_COLLISION:uav_02:uav_04",
+      "PAIR_COLLISION:uav_03:uav_04"
+    ],
+    "completed_agents": 0,
+    "total_agents": 6,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 9.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 9.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 9.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 9.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.00016820000018924475,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.02085079999960726,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n6_r0p4_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 6,
+    "total_agents": 6,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 11.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 13.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 15.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 17.66069382113214,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 20.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 3.277047498450659,
+    "runtime_wall_s": 0.00018389999968349002,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 20.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.023157499999797437,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n6_r0p4_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 6,
+    "total_agents": 6,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 21.921338124281203,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 33.862304905065436,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 46.12294920821449,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 58.70327103372839,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 71.56386581889437,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 3.277047498450659,
+    "runtime_wall_s": 0.00018970000019180588,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 71.56386581889437,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.023322200000620796,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n6_r0p6_w12",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01",
+      "PAIR_COLLISION:uav_00:uav_04",
+      "PAIR_COLLISION:uav_00:uav_05",
+      "PAIR_COLLISION:uav_01:uav_02",
+      "PAIR_COLLISION:uav_01:uav_03",
+      "PAIR_COLLISION:uav_01:uav_04",
+      "PAIR_COLLISION:uav_01:uav_05",
+      "PAIR_COLLISION:uav_02:uav_03",
+      "PAIR_COLLISION:uav_02:uav_04",
+      "PAIR_COLLISION:uav_03:uav_04",
+      "PAIR_COLLISION:uav_04:uav_05"
+    ],
+    "completed_agents": 0,
+    "total_agents": 6,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 9.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 9.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 9.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 9.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.00016909999976633117,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.02080740000019432,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n6_r0p6_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 6,
+    "total_agents": 6,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 11.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 13.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 15.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 17.66069382113214,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 20.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 3.277047498450659,
+    "runtime_wall_s": 0.00018529999942984432,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 20.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.02360179999959655,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n6_r0p6_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 6,
+    "total_agents": 6,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 21.921338124281203,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 33.862304905065436,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 46.12294920821449,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 58.70327103372839,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 71.56386581889437,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 3.277047498450659,
+    "runtime_wall_s": 0.0001843999998527579,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 71.56386581889437,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.02400820000002568,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n12_r0p25_w12",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01",
+      "PAIR_COLLISION:uav_00:uav_10",
+      "PAIR_COLLISION:uav_00:uav_11",
+      "PAIR_COLLISION:uav_01:uav_02",
+      "PAIR_COLLISION:uav_01:uav_09",
+      "PAIR_COLLISION:uav_01:uav_10",
+      "PAIR_COLLISION:uav_01:uav_11",
+      "PAIR_COLLISION:uav_02:uav_03",
+      "PAIR_COLLISION:uav_02:uav_07",
+      "PAIR_COLLISION:uav_02:uav_08",
+      "PAIR_COLLISION:uav_02:uav_09",
+      "PAIR_COLLISION:uav_02:uav_10",
+      "PAIR_COLLISION:uav_03:uav_04",
+      "PAIR_COLLISION:uav_03:uav_05",
+      "PAIR_COLLISION:uav_03:uav_06",
+      "PAIR_COLLISION:uav_03:uav_07",
+      "PAIR_COLLISION:uav_03:uav_08",
+      "PAIR_COLLISION:uav_03:uav_09",
+      "PAIR_COLLISION:uav_04:uav_05",
+      "PAIR_COLLISION:uav_04:uav_06",
+      "PAIR_COLLISION:uav_04:uav_07",
+      "PAIR_COLLISION:uav_04:uav_08",
+      "PAIR_COLLISION:uav_04:uav_09",
+      "PAIR_COLLISION:uav_05:uav_06",
+      "PAIR_COLLISION:uav_05:uav_07",
+      "PAIR_COLLISION:uav_05:uav_08",
+      "PAIR_COLLISION:uav_06:uav_07",
+      "PAIR_COLLISION:uav_06:uav_08",
+      "PAIR_COLLISION:uav_07:uav_08",
+      "PAIR_COLLISION:uav_08:uav_09",
+      "PAIR_COLLISION:uav_09:uav_10",
+      "PAIR_COLLISION:uav_10:uav_11"
+    ],
+    "completed_agents": 0,
+    "total_agents": 12,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 9.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 9.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 9.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 9.376074461493273,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 9.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 9.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 9.376074461493273,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 9.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 9.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 9.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.0003120000001217704,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.05389149999973597,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n12_r0p25_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 12,
+    "total_agents": 12,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 11.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 13.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 15.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 17.376074461493275,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 19.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 21.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 23.376074461493275,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 25.509279563550024,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 27.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 29.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 32.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 1.4895670447503,
+    "runtime_wall_s": 0.0003995000006398186,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 32.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.060352700000294135,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n12_r0p25_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 12,
+    "total_agents": 12,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 22.21742645096591,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 34.22575944043994,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 46.29121247299721,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 58.418651674089524,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 70.61171620987558,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 82.87236051302463,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 95.20058458353671,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 107.59443398874252,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 120.05026956248338,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 132.56322517930747,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 145.12773163778874,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 1.4895670447502989,
+    "runtime_wall_s": 0.000351099999534199,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 145.12773163778874,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.059375199998612516,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n12_r0p4_w12",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01",
+      "PAIR_COLLISION:uav_00:uav_10",
+      "PAIR_COLLISION:uav_00:uav_11",
+      "PAIR_COLLISION:uav_01:uav_02",
+      "PAIR_COLLISION:uav_01:uav_08",
+      "PAIR_COLLISION:uav_01:uav_09",
+      "PAIR_COLLISION:uav_01:uav_10",
+      "PAIR_COLLISION:uav_01:uav_11",
+      "PAIR_COLLISION:uav_02:uav_03",
+      "PAIR_COLLISION:uav_02:uav_04",
+      "PAIR_COLLISION:uav_02:uav_05",
+      "PAIR_COLLISION:uav_02:uav_06",
+      "PAIR_COLLISION:uav_02:uav_07",
+      "PAIR_COLLISION:uav_02:uav_08",
+      "PAIR_COLLISION:uav_02:uav_09",
+      "PAIR_COLLISION:uav_02:uav_10",
+      "PAIR_COLLISION:uav_03:uav_04",
+      "PAIR_COLLISION:uav_03:uav_05",
+      "PAIR_COLLISION:uav_03:uav_06",
+      "PAIR_COLLISION:uav_03:uav_07",
+      "PAIR_COLLISION:uav_03:uav_08",
+      "PAIR_COLLISION:uav_03:uav_09",
+      "PAIR_COLLISION:uav_03:uav_10",
+      "PAIR_COLLISION:uav_04:uav_05",
+      "PAIR_COLLISION:uav_04:uav_06",
+      "PAIR_COLLISION:uav_04:uav_07",
+      "PAIR_COLLISION:uav_04:uav_08",
+      "PAIR_COLLISION:uav_04:uav_09",
+      "PAIR_COLLISION:uav_05:uav_06",
+      "PAIR_COLLISION:uav_05:uav_07",
+      "PAIR_COLLISION:uav_05:uav_08",
+      "PAIR_COLLISION:uav_05:uav_09",
+      "PAIR_COLLISION:uav_06:uav_07",
+      "PAIR_COLLISION:uav_06:uav_08",
+      "PAIR_COLLISION:uav_06:uav_09",
+      "PAIR_COLLISION:uav_07:uav_08",
+      "PAIR_COLLISION:uav_07:uav_09",
+      "PAIR_COLLISION:uav_08:uav_09",
+      "PAIR_COLLISION:uav_09:uav_10",
+      "PAIR_COLLISION:uav_10:uav_11"
+    ],
+    "completed_agents": 0,
+    "total_agents": 12,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 9.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 9.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 9.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 9.376074461493273,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 9.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 9.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 9.376074461493273,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 9.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 9.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 9.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.0003195999997842591,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.054574899999352056,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n12_r0p4_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 12,
+    "total_agents": 12,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 11.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 13.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 15.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 17.376074461493275,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 19.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 21.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 23.376074461493275,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 25.509279563550024,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 27.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 29.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 32.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 1.4895670447503,
+    "runtime_wall_s": 0.00035819999902741984,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 32.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.06032910000067204,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n12_r0p4_w12",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 12,
+    "total_agents": 12,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 22.21742645096591,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 34.22575944043994,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 46.29121247299721,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 58.418651674089524,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 70.61171620987558,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 82.87236051302463,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 95.20058458353671,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 107.59443398874252,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 120.05026956248338,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 132.56322517930747,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 145.12773163778874,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 1.4895670447502989,
+    "runtime_wall_s": 0.0005310999986249954,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 145.12773163778874,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.05956670000159647,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n12_r0p6_w12",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01",
+      "PAIR_COLLISION:uav_00:uav_02",
+      "PAIR_COLLISION:uav_00:uav_09",
+      "PAIR_COLLISION:uav_00:uav_10",
+      "PAIR_COLLISION:uav_00:uav_11",
+      "PAIR_COLLISION:uav_01:uav_02",
+      "PAIR_COLLISION:uav_01:uav_03",
+      "PAIR_COLLISION:uav_01:uav_04",
+      "PAIR_COLLISION:uav_01:uav_07",
+      "PAIR_COLLISION:uav_01:uav_08",
+      "PAIR_COLLISION:uav_01:uav_09",
+      "PAIR_COLLISION:uav_01:uav_10",
+      "PAIR_COLLISION:uav_01:uav_11",
+      "PAIR_COLLISION:uav_02:uav_03",
+      "PAIR_COLLISION:uav_02:uav_04",
+      "PAIR_COLLISION:uav_02:uav_05",
+      "PAIR_COLLISION:uav_02:uav_06",
+      "PAIR_COLLISION:uav_02:uav_07",
+      "PAIR_COLLISION:uav_02:uav_08",
+      "PAIR_COLLISION:uav_02:uav_09",
+      "PAIR_COLLISION:uav_02:uav_10",
+      "PAIR_COLLISION:uav_02:uav_11",
+      "PAIR_COLLISION:uav_03:uav_04",
+      "PAIR_COLLISION:uav_03:uav_05",
+      "PAIR_COLLISION:uav_03:uav_06",
+      "PAIR_COLLISION:uav_03:uav_07",
+      "PAIR_COLLISION:uav_03:uav_08",
+      "PAIR_COLLISION:uav_03:uav_09",
+      "PAIR_COLLISION:uav_03:uav_10",
+      "PAIR_COLLISION:uav_04:uav_05",
+      "PAIR_COLLISION:uav_04:uav_06",
+      "PAIR_COLLISION:uav_04:uav_07",
+      "PAIR_COLLISION:uav_04:uav_08",
+      "PAIR_COLLISION:uav_04:uav_09",
+      "PAIR_COLLISION:uav_04:uav_10",
+      "PAIR_COLLISION:uav_05:uav_06",
+      "PAIR_COLLISION:uav_05:uav_07",
+      "PAIR_COLLISION:uav_05:uav_08",
+      "PAIR_COLLISION:uav_05:uav_09",
+      "PAIR_COLLISION:uav_06:uav_07",
+      "PAIR_COLLISION:uav_06:uav_08",
+      "PAIR_COLLISION:uav_06:uav_09",
+      "PAIR_COLLISION:uav_07:uav_08",
+      "PAIR_COLLISION:uav_07:uav_09",
+      "PAIR_COLLISION:uav_07:uav_10",
+      "PAIR_COLLISION:uav_08:uav_09",
+      "PAIR_COLLISION:uav_08:uav_10",
+      "PAIR_COLLISION:uav_09:uav_10",
+      "PAIR_COLLISION:uav_09:uav_11",
+      "PAIR_COLLISION:uav_10:uav_11"
+    ],
+    "completed_agents": 0,
+    "total_agents": 12,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 9.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 9.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 9.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 9.376074461493273,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 9.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 9.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 9.376074461493273,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 9.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 9.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 9.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.00031630000012228265,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.05307100000027276,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n12_r0p6_w12",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01",
+      "PAIR_COLLISION:uav_10:uav_11"
+    ],
+    "completed_agents": 8,
+    "total_agents": 12,
+    "task_completion_fraction": 0.6666666666666666,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 11.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 13.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 15.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 17.376074461493275,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 19.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 21.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 23.376074461493275,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 25.509279563550024,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 27.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 29.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 32.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 1.4895670447503,
+    "runtime_wall_s": 0.000357599999915692,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 32.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.05991589999939606,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n12_r0p6_w12",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01",
+      "PAIR_COLLISION:uav_10:uav_11"
+    ],
+    "completed_agents": 8,
+    "total_agents": 12,
+    "task_completion_fraction": 0.6666666666666666,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 22.21742645096591,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 34.22575944043994,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 46.29121247299721,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 58.418651674089524,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 70.61171620987558,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 82.87236051302463,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 95.20058458353671,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 107.59443398874252,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 120.05026956248338,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 132.56322517930747,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 145.12773163778874,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 1.4895670447502989,
+    "runtime_wall_s": 0.0003527999997459119,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 145.12773163778874,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.05943049999950745,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n1_r0p25_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 5.9100000726175494e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.0024092000003292924,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n1_r0p25_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 4.540000009001233e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.0023854999999457505,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n1_r0p25_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 4.6299999667098746e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.0023187000006146263,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n1_r0p4_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 4.509999962465372e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.0023526000004494563,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n1_r0p4_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 4.329999865149148e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.0023064999986672774,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n1_r0p4_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 4.389999958220869e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.002301399999851128,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n1_r0p6_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 4.400000034365803e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.0022869999993417878,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n1_r0p6_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 4.290000106266234e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.002279999998791027,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n1_r0p6_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 1,
+    "total_agents": 1,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 34.0,
+        "arrival_s": 9.3,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": null,
+    "runtime_wall_s": 4.330000047048088e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 34.0,
+    "makespan_s": 9.3,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.002268500000354834,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n2_r0p25_w14",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01"
+    ],
+    "completed_agents": 0,
+    "total_agents": 2,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 6.790000043110922e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.005391000000599888,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n2_r0p25_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 2,
+    "total_agents": 2,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 12.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 8.762159086766468,
+    "runtime_wall_s": 7.299999924725853e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 12.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.006002999998599989,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n2_r0p25_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 2,
+    "total_agents": 2,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 22.521288606298125,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 16.3852374922533,
+    "runtime_wall_s": 7.240000013553072e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 22.521288606298125,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.006319899999652989,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n2_r0p4_w14",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01"
+    ],
+    "completed_agents": 0,
+    "total_agents": 2,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 7.349999941652641e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.005505799999809824,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n2_r0p4_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 2,
+    "total_agents": 2,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 12.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 8.762159086766468,
+    "runtime_wall_s": 7.399999958579428e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 12.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.005996100000629667,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n2_r0p4_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 2,
+    "total_agents": 2,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 22.521288606298125,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 16.3852374922533,
+    "runtime_wall_s": 7.280000136233866e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 22.521288606298125,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.006391700000676792,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n2_r0p6_w14",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01"
+    ],
+    "completed_agents": 0,
+    "total_agents": 2,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 6.949999988137279e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.005538999999771477,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n2_r0p6_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 2,
+    "total_agents": 2,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 12.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 8.762159086766468,
+    "runtime_wall_s": 7.089999962772708e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 12.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.006330500000331085,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n2_r0p6_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 2,
+    "total_agents": 2,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 22.521288606298125,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 16.3852374922533,
+    "runtime_wall_s": 7.370000093942508e-05,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 77.60644303149061,
+    "makespan_s": 22.521288606298125,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.006017699999574688,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n4_r0p25_w14",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_03",
+      "PAIR_COLLISION:uav_01:uav_02"
+    ],
+    "completed_agents": 0,
+    "total_agents": 4,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 9.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 9.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.000121900000522146,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.012326400001256843,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n4_r0p25_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 4,
+    "total_agents": 4,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 11.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 13.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 16.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 5.4617458307510995,
+    "runtime_wall_s": 0.0001787999990483513,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 16.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.01434740000149759,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n4_r0p25_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 4,
+    "total_agents": 4,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 21.673977636482395,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 33.934621939631455,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 47.04257721259625,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 5.4617458307510995,
+    "runtime_wall_s": 0.00012889999925391749,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 47.04257721259625,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.014937599999029771,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n4_r0p4_w14",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_03",
+      "PAIR_COLLISION:uav_01:uav_02"
+    ],
+    "completed_agents": 0,
+    "total_agents": 4,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 9.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 9.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.00012889999925391749,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.013304199999765842,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n4_r0p4_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 4,
+    "total_agents": 4,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 11.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 13.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 16.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 5.4617458307510995,
+    "runtime_wall_s": 0.0001385000014124671,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 16.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.014350600000398117,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n4_r0p4_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 4,
+    "total_agents": 4,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 21.673977636482395,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 33.934621939631455,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 47.04257721259625,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 5.4617458307510995,
+    "runtime_wall_s": 0.00013279999984661117,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 47.04257721259625,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.014048000000911998,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n4_r0p6_w14",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_03",
+      "PAIR_COLLISION:uav_01:uav_02"
+    ],
+    "completed_agents": 0,
+    "total_agents": 4,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 9.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 9.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.00012290000086068176,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.01206110000020999,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n4_r0p6_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 4,
+    "total_agents": 4,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 11.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 13.413333333333332,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 16.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 5.4617458307510995,
+    "runtime_wall_s": 0.00012720000086119398,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 16.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.01439589999972668,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n4_r0p6_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 4,
+    "total_agents": 4,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 21.673977636482395,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.566666666666656,
+        "arrival_s": 33.934621939631455,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 47.04257721259625,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 5.4617458307510995,
+    "runtime_wall_s": 0.00013550000039685983,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 146.7397763648239,
+    "makespan_s": 47.04257721259625,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.01387310000063735,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n6_r0p25_w14",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_05",
+      "PAIR_COLLISION:uav_01:uav_02",
+      "PAIR_COLLISION:uav_01:uav_03",
+      "PAIR_COLLISION:uav_01:uav_04",
+      "PAIR_COLLISION:uav_02:uav_03",
+      "PAIR_COLLISION:uav_02:uav_04",
+      "PAIR_COLLISION:uav_03:uav_04"
+    ],
+    "completed_agents": 0,
+    "total_agents": 6,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 9.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 9.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 9.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 9.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.00016820000018924475,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.02238730000135547,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n6_r0p25_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 6,
+    "total_agents": 6,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 11.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 13.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 15.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 17.66069382113214,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 20.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 3.277047498450659,
+    "runtime_wall_s": 0.0001978999989660224,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 20.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.02386839999962831,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n6_r0p25_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 6,
+    "total_agents": 6,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 21.921338124281203,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 33.862304905065436,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 46.12294920821449,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 58.70327103372839,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 71.56386581889437,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 3.277047498450659,
+    "runtime_wall_s": 0.00018600000112201087,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 71.56386581889437,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.023295599999983096,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n6_r0p4_w14",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_05",
+      "PAIR_COLLISION:uav_01:uav_02",
+      "PAIR_COLLISION:uav_01:uav_03",
+      "PAIR_COLLISION:uav_01:uav_04",
+      "PAIR_COLLISION:uav_02:uav_03",
+      "PAIR_COLLISION:uav_02:uav_04",
+      "PAIR_COLLISION:uav_03:uav_04"
+    ],
+    "completed_agents": 0,
+    "total_agents": 6,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 9.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 9.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 9.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 9.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.0001764999997249106,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.019887200000084704,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n6_r0p4_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 6,
+    "total_agents": 6,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 11.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 13.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 15.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 17.66069382113214,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 20.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 3.277047498450659,
+    "runtime_wall_s": 0.00019689999862748664,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 20.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.024358700000448152,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n6_r0p4_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 6,
+    "total_agents": 6,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 21.921338124281203,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 33.862304905065436,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 46.12294920821449,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 58.70327103372839,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 71.56386581889437,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 3.277047498450659,
+    "runtime_wall_s": 0.00021299999934853986,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 71.56386581889437,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.02344740000080492,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n6_r0p6_w14",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01",
+      "PAIR_COLLISION:uav_00:uav_04",
+      "PAIR_COLLISION:uav_00:uav_05",
+      "PAIR_COLLISION:uav_01:uav_02",
+      "PAIR_COLLISION:uav_01:uav_03",
+      "PAIR_COLLISION:uav_01:uav_04",
+      "PAIR_COLLISION:uav_01:uav_05",
+      "PAIR_COLLISION:uav_02:uav_03",
+      "PAIR_COLLISION:uav_02:uav_04",
+      "PAIR_COLLISION:uav_03:uav_04",
+      "PAIR_COLLISION:uav_04:uav_05"
+    ],
+    "completed_agents": 0,
+    "total_agents": 6,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 9.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 9.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 9.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 9.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.00016939999841270037,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.021038399998360546,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n6_r0p6_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 6,
+    "total_agents": 6,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 11.660693821132138,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 13.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 15.341016298767311,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 17.66069382113214,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 20.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 3.277047498450659,
+    "runtime_wall_s": 0.00018929999896499794,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 20.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.023157800000262796,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n6_r0p6_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 6,
+    "total_agents": 6,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 21.921338124281203,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 33.862304905065436,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 34.205081493836545,
+        "arrival_s": 46.12294920821449,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 35.80346910566069,
+        "arrival_s": 58.70327103372839,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_05": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 71.56386581889437,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 3.277047498450659,
+    "runtime_wall_s": 0.00018769999951473437,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 217.6235442304851,
+    "makespan_s": 71.56386581889437,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.023838300001443713,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n12_r0p25_w14",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01",
+      "PAIR_COLLISION:uav_00:uav_10",
+      "PAIR_COLLISION:uav_00:uav_11",
+      "PAIR_COLLISION:uav_01:uav_02",
+      "PAIR_COLLISION:uav_01:uav_09",
+      "PAIR_COLLISION:uav_01:uav_10",
+      "PAIR_COLLISION:uav_01:uav_11",
+      "PAIR_COLLISION:uav_02:uav_03",
+      "PAIR_COLLISION:uav_02:uav_07",
+      "PAIR_COLLISION:uav_02:uav_08",
+      "PAIR_COLLISION:uav_02:uav_09",
+      "PAIR_COLLISION:uav_02:uav_10",
+      "PAIR_COLLISION:uav_03:uav_04",
+      "PAIR_COLLISION:uav_03:uav_05",
+      "PAIR_COLLISION:uav_03:uav_06",
+      "PAIR_COLLISION:uav_03:uav_07",
+      "PAIR_COLLISION:uav_03:uav_08",
+      "PAIR_COLLISION:uav_03:uav_09",
+      "PAIR_COLLISION:uav_04:uav_05",
+      "PAIR_COLLISION:uav_04:uav_06",
+      "PAIR_COLLISION:uav_04:uav_07",
+      "PAIR_COLLISION:uav_04:uav_08",
+      "PAIR_COLLISION:uav_04:uav_09",
+      "PAIR_COLLISION:uav_05:uav_06",
+      "PAIR_COLLISION:uav_05:uav_07",
+      "PAIR_COLLISION:uav_05:uav_08",
+      "PAIR_COLLISION:uav_06:uav_07",
+      "PAIR_COLLISION:uav_06:uav_08",
+      "PAIR_COLLISION:uav_07:uav_08",
+      "PAIR_COLLISION:uav_08:uav_09",
+      "PAIR_COLLISION:uav_09:uav_10",
+      "PAIR_COLLISION:uav_10:uav_11"
+    ],
+    "completed_agents": 0,
+    "total_agents": 12,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 9.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 9.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 9.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 9.376074461493273,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 9.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 9.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 9.376074461493273,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 9.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 9.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 9.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.0003206999990652548,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.05246929999884742,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n12_r0p25_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 12,
+    "total_agents": 12,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 11.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 13.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 15.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 17.376074461493275,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 19.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 21.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 23.376074461493275,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 25.509279563550024,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 27.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 29.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 32.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 1.4895670447503,
+    "runtime_wall_s": 0.0003550000001268927,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 32.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.06151530000170169,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n12_r0p25_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 12,
+    "total_agents": 12,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 22.21742645096591,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 34.22575944043994,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 46.29121247299721,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 58.418651674089524,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 70.61171620987558,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 82.87236051302463,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 95.20058458353671,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 107.59443398874252,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 120.05026956248338,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 132.56322517930747,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 145.12773163778874,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 1.4895670447502989,
+    "runtime_wall_s": 0.0003820000001724111,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 145.12773163778874,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.05950180000036198,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n12_r0p4_w14",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01",
+      "PAIR_COLLISION:uav_00:uav_10",
+      "PAIR_COLLISION:uav_00:uav_11",
+      "PAIR_COLLISION:uav_01:uav_02",
+      "PAIR_COLLISION:uav_01:uav_08",
+      "PAIR_COLLISION:uav_01:uav_09",
+      "PAIR_COLLISION:uav_01:uav_10",
+      "PAIR_COLLISION:uav_01:uav_11",
+      "PAIR_COLLISION:uav_02:uav_03",
+      "PAIR_COLLISION:uav_02:uav_04",
+      "PAIR_COLLISION:uav_02:uav_05",
+      "PAIR_COLLISION:uav_02:uav_06",
+      "PAIR_COLLISION:uav_02:uav_07",
+      "PAIR_COLLISION:uav_02:uav_08",
+      "PAIR_COLLISION:uav_02:uav_09",
+      "PAIR_COLLISION:uav_02:uav_10",
+      "PAIR_COLLISION:uav_03:uav_04",
+      "PAIR_COLLISION:uav_03:uav_05",
+      "PAIR_COLLISION:uav_03:uav_06",
+      "PAIR_COLLISION:uav_03:uav_07",
+      "PAIR_COLLISION:uav_03:uav_08",
+      "PAIR_COLLISION:uav_03:uav_09",
+      "PAIR_COLLISION:uav_03:uav_10",
+      "PAIR_COLLISION:uav_04:uav_05",
+      "PAIR_COLLISION:uav_04:uav_06",
+      "PAIR_COLLISION:uav_04:uav_07",
+      "PAIR_COLLISION:uav_04:uav_08",
+      "PAIR_COLLISION:uav_04:uav_09",
+      "PAIR_COLLISION:uav_05:uav_06",
+      "PAIR_COLLISION:uav_05:uav_07",
+      "PAIR_COLLISION:uav_05:uav_08",
+      "PAIR_COLLISION:uav_05:uav_09",
+      "PAIR_COLLISION:uav_06:uav_07",
+      "PAIR_COLLISION:uav_06:uav_08",
+      "PAIR_COLLISION:uav_06:uav_09",
+      "PAIR_COLLISION:uav_07:uav_08",
+      "PAIR_COLLISION:uav_07:uav_09",
+      "PAIR_COLLISION:uav_08:uav_09",
+      "PAIR_COLLISION:uav_09:uav_10",
+      "PAIR_COLLISION:uav_10:uav_11"
+    ],
+    "completed_agents": 0,
+    "total_agents": 12,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 9.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 9.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 9.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 9.376074461493273,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 9.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 9.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 9.376074461493273,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 9.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 9.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 9.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.00032439999995403923,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.052305499999420135,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n12_r0p4_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 12,
+    "total_agents": 12,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 11.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 13.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 15.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 17.376074461493275,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 19.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 21.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 23.376074461493275,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 25.509279563550024,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 27.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 29.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 32.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 1.4895670447503,
+    "runtime_wall_s": 0.00036019999970449135,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 32.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.06324060000042664,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n12_r0p4_w14",
+    "status": "PASS",
+    "failure_reasons": [],
+    "completed_agents": 12,
+    "total_agents": 12,
+    "task_completion_fraction": 1.0,
+    "team_success": true,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 22.21742645096591,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 34.22575944043994,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 46.29121247299721,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 58.418651674089524,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 70.61171620987558,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 82.87236051302463,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 95.20058458353671,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 107.59443398874252,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 120.05026956248338,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 132.56322517930747,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 145.12773163778874,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 1.4895670447502989,
+    "runtime_wall_s": 0.0003687999997055158,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 145.12773163778874,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.06123530000149913,
+    "algorithm": "serialized"
+  },
+  {
+    "task_id": "calibration_n12_r0p6_w14",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01",
+      "PAIR_COLLISION:uav_00:uav_02",
+      "PAIR_COLLISION:uav_00:uav_09",
+      "PAIR_COLLISION:uav_00:uav_10",
+      "PAIR_COLLISION:uav_00:uav_11",
+      "PAIR_COLLISION:uav_01:uav_02",
+      "PAIR_COLLISION:uav_01:uav_03",
+      "PAIR_COLLISION:uav_01:uav_04",
+      "PAIR_COLLISION:uav_01:uav_07",
+      "PAIR_COLLISION:uav_01:uav_08",
+      "PAIR_COLLISION:uav_01:uav_09",
+      "PAIR_COLLISION:uav_01:uav_10",
+      "PAIR_COLLISION:uav_01:uav_11",
+      "PAIR_COLLISION:uav_02:uav_03",
+      "PAIR_COLLISION:uav_02:uav_04",
+      "PAIR_COLLISION:uav_02:uav_05",
+      "PAIR_COLLISION:uav_02:uav_06",
+      "PAIR_COLLISION:uav_02:uav_07",
+      "PAIR_COLLISION:uav_02:uav_08",
+      "PAIR_COLLISION:uav_02:uav_09",
+      "PAIR_COLLISION:uav_02:uav_10",
+      "PAIR_COLLISION:uav_02:uav_11",
+      "PAIR_COLLISION:uav_03:uav_04",
+      "PAIR_COLLISION:uav_03:uav_05",
+      "PAIR_COLLISION:uav_03:uav_06",
+      "PAIR_COLLISION:uav_03:uav_07",
+      "PAIR_COLLISION:uav_03:uav_08",
+      "PAIR_COLLISION:uav_03:uav_09",
+      "PAIR_COLLISION:uav_03:uav_10",
+      "PAIR_COLLISION:uav_04:uav_05",
+      "PAIR_COLLISION:uav_04:uav_06",
+      "PAIR_COLLISION:uav_04:uav_07",
+      "PAIR_COLLISION:uav_04:uav_08",
+      "PAIR_COLLISION:uav_04:uav_09",
+      "PAIR_COLLISION:uav_04:uav_10",
+      "PAIR_COLLISION:uav_05:uav_06",
+      "PAIR_COLLISION:uav_05:uav_07",
+      "PAIR_COLLISION:uav_05:uav_08",
+      "PAIR_COLLISION:uav_05:uav_09",
+      "PAIR_COLLISION:uav_06:uav_07",
+      "PAIR_COLLISION:uav_06:uav_08",
+      "PAIR_COLLISION:uav_06:uav_09",
+      "PAIR_COLLISION:uav_07:uav_08",
+      "PAIR_COLLISION:uav_07:uav_09",
+      "PAIR_COLLISION:uav_07:uav_10",
+      "PAIR_COLLISION:uav_08:uav_09",
+      "PAIR_COLLISION:uav_08:uav_10",
+      "PAIR_COLLISION:uav_09:uav_10",
+      "PAIR_COLLISION:uav_09:uav_11",
+      "PAIR_COLLISION:uav_10:uav_11"
+    ],
+    "completed_agents": 0,
+    "total_agents": 12,
+    "task_completion_fraction": 0.0,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 9.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 9.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 9.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 9.376074461493273,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 9.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 9.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 9.376074461493273,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 9.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 9.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 9.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 0.0,
+    "runtime_wall_s": 0.00034299999970244244,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 10.260644303149062,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.05778180000015709,
+    "algorithm": "independent"
+  },
+  {
+    "task_id": "calibration_n12_r0p6_w14",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01",
+      "PAIR_COLLISION:uav_10:uav_11"
+    ],
+    "completed_agents": 8,
+    "total_agents": 12,
+    "task_completion_fraction": 0.6666666666666666,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 11.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 13.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 15.509279563550022,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 17.376074461493275,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 19.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 21.308494694130268,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 23.376074461493275,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 25.509279563550024,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 27.70447083414181,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 29.956782147816845,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 32.260644303149064,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 1.4895670447503,
+    "runtime_wall_s": 0.00035600000046542846,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 32.260644303149064,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.0608087999989948,
+    "algorithm": "staggered_2s"
+  },
+  {
+    "task_id": "calibration_n12_r0p6_w14",
+    "status": "FAIL",
+    "failure_reasons": [
+      "PAIR_COLLISION:uav_00:uav_01",
+      "PAIR_COLLISION:uav_10:uav_11"
+    ],
+    "completed_agents": 8,
+    "total_agents": 12,
+    "task_completion_fraction": 0.6666666666666666,
+    "team_success": false,
+    "metrics": {
+      "uav_00": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 10.260644303149062,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_01": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 22.21742645096591,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_02": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 34.22575944043994,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_03": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 46.29121247299721,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_04": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 58.418651674089524,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_05": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 70.61171620987558,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_06": {
+        "path_length_m": 34.04247347065134,
+        "arrival_s": 82.87236051302463,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_07": {
+        "path_length_m": 34.38037230746636,
+        "arrival_s": 95.20058458353671,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 1.9999999999999998
+      },
+      "uav_08": {
+        "path_length_m": 35.04639781775012,
+        "arrival_s": 107.59443398874252,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_09": {
+        "path_length_m": 36.02235417070906,
+        "arrival_s": 120.05026956248338,
+        "max_speed_mps": 5.000000000000001,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_10": {
+        "path_length_m": 37.28391073908422,
+        "arrival_s": 132.56322517930747,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      },
+      "uav_11": {
+        "path_length_m": 38.80322151574531,
+        "arrival_s": 145.12773163778874,
+        "max_speed_mps": 5.0,
+        "max_acceleration_mps2": 2.0
+      }
+    },
+    "minimum_pair_distance_m": 1.4895670447502989,
+    "runtime_wall_s": 0.00036980000004405156,
+    "runtime_trust": "MEASURED_BY_LOCAL_REFERENCE_HARNESS_SAME_PROCESS_NO_SENSOR_OR_TRAINING_TIME",
+    "total_path_length_m": 431.1574600428128,
+    "makespan_s": 145.12773163778874,
+    "evidence_scope": "SYNTHETIC_GEOMETRY_EXACT_BY_CONSTRUCTION_NOT_REAL_WORLD",
+    "evaluator_wall_s": 0.060623600000326405,
+    "algorithm": "serialized"
+  }
+]

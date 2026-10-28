@@ -1,0 +1,41 @@
+{
+  "schema_version": "uav3d-0.1",
+  "status": "RESEARCH_PRE_RELEASE",
+  "official_standard": false,
+  "real_underbridge_routes_qualified": 0,
+  "geometry_model": "sphere + piecewise constant acceleration + conservative AABB",
+  "spatial_states": [
+    "observed_occupied",
+    "observed_free_with_visibility_evidence",
+    "model_inferred_free",
+    "unknown"
+  ],
+  "unknown_policy": "blocked by default; closed-model assumption separately ranked",
+  "fleet_sizes": [
+    1,
+    2,
+    4,
+    6,
+    12
+  ],
+  "split_group": "geographic area + acquisition + related products",
+  "frozen_paper_integration": false,
+  "real_flight_certification": false,
+  "mandatory_metrics": [
+    "team_success",
+    "task_completion_fraction",
+    "runtime_wall_s",
+    "total_path_length_m",
+    "makespan_s",
+    "minimum_pair_distance_m"
+  ],
+  "missing_release_gates": [
+    "real free-space/coverage qualification",
+    "PCD scale/axis verification",
+    "building topology/registration audit",
+    "multiple independent real 3D regions",
+    "external algorithms and process timing",
+    "independent tester",
+    "closed-loop dynamics"
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "algorithm": "independent",
+    "total": 30,
+    "team_success": 6,
+    "completed_agents": 6,
+    "total_agents": 150,
+    "runtime_mean_s": 0.00015137333339225733,
+    "total_path_length_success_mean_m": 34.0,
+    "makespan_success_mean_s": 9.299999999999999,
+    "scope": "Synthetic protocol calibration; not an external algorithm comparison or paper result"
+  },
+  {
+    "algorithm": "staggered_2s",
+    "total": 30,
+    "team_success": 28,
+    "completed_agents": 142,
+    "total_agents": 150,
+    "runtime_mean_s": 0.00016320999984600348,
+    "total_path_length_success_mean_m": 163.58744364043034,
+    "makespan_success_mean_s": 17.054791952474268,
+    "scope": "Synthetic protocol calibration; not an external algorithm comparison or paper result"
+  },
+  {
+    "algorithm": "serialized",
+    "total": 30,
+    "team_success": 28,
+    "completed_agents": 142,
+    "total_agents": 150,
+    "runtime_mean_s": 0.0001693499998509651,
+    "total_path_length_success_mean_m": 163.58744364043034,
+    "makespan_success_mean_s": 52.96704701349597,
+    "scope": "Synthetic protocol calibration; not an external algorithm comparison or paper result"
+  }
+]

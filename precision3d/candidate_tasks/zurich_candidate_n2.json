@@ -1,0 +1,74 @@
+{
+  "schema_version": "uav3d-0.1",
+  "id": "zurich_candidate_n2",
+  "world_id": "zurich_real_observation_only",
+  "source_kind": "REAL_GEOMETRY_CANDIDATE_NOT_QUALIFIED",
+  "agents": [
+    {
+      "id": "uav_00",
+      "radius_m": 0.25,
+      "start": [
+        100.0,
+        100.0,
+        50.0
+      ],
+      "goal": [
+        900.0,
+        1900.0,
+        50.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uav_01",
+      "radius_m": 0.25,
+      "start": [
+        100.0,
+        103.0,
+        50.0
+      ],
+      "goal": [
+        900.0,
+        1897.0,
+        50.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "map_margin_m": 0.15,
+  "tracking_margin_m": 0.1,
+  "separation_margin_m": 0.3,
+  "limits": {
+    "runtime_budget_s": 10.0,
+    "mission_deadline_s": 600.0,
+    "speed_mps": 5.0,
+    "acceleration_mps2": 2.0,
+    "endpoint_tolerance_m": 0.02
+  },
+  "difficulty": {
+    "fleet_size": 2,
+    "body_radius_m": 0.25,
+    "bridge_half_width_m": 14,
+    "crossing": "symmetric center convergence",
+    "endpoint_height_m": 4.0
+  },
+  "qualification": "DO_NOT_RANK; ENDPOINTS_AND_FULL_FREE_SPACE_NOT_VERIFIED"
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "item": "swisssurface3d_2024_2681-1249",
+    "collection": "ch.swisstopo.swisssurface3d",
+    "asset_url": "https://data.geo.admin.ch/ch.swisstopo.swisssurface3d/swisssurface3d_2024_2681-1249/swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+    "stac_url": "https://data.geo.admin.ch/api/stac/v1/collections/ch.swisstopo.swisssurface3d/items/swisssurface3d_2024_2681-1249",
+    "path": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1249_2056_5728.copc.laz",
+    "bytes": 148960567,
+    "sha256": "b891297f4ae9759839c1d92f2a0b59c6a6e17ca6dc1e6f77dbda8aba2305dbce",
+    "official_multihash": "1220B891297F4AE9759839C1D92F2A0B59C6A6E17CA6DC1E6F77DBDA8ABA2305DBCE",
+    "official_hash_verified": true,
+    "elapsed_s": 9.253278799998952,
+    "nominal_datetime": "2024-01-01T00:00:00Z",
+    "crs": "EPSG:2056 + EPSG:5728",
+    "license": "swisstopo OGD terms; attribution required; not relicensed as CC BY",
+    "attribution": "Source: Federal Office of Topography swisstopo",
+    "qualification": "SOURCE_VERIFIED_GEOMETRY_QA_PENDING"
+  },
+  {
+    "item": "swisssurface3d_2024_2681-1248",
+    "collection": "ch.swisstopo.swisssurface3d",
+    "asset_url": "https://data.geo.admin.ch/ch.swisstopo.swisssurface3d/swisssurface3d_2024_2681-1248/swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+    "stac_url": "https://data.geo.admin.ch/api/stac/v1/collections/ch.swisstopo.swisssurface3d/items/swisssurface3d_2024_2681-1248",
+    "path": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+    "bytes": 155714213,
+    "sha256": "0a321b11ca8548e0856e25e073ab2839624f5395f19c06e144bb12b0f80a2931",
+    "official_multihash": "12200A321B11CA8548E0856E25E073AB2839624F5395F19C06E144BB12B0F80A2931",
+    "official_hash_verified": true,
+    "elapsed_s": 9.521527499999138,
+    "nominal_datetime": "2024-01-01T00:00:00Z",
+    "crs": "EPSG:2056 + EPSG:5728",
+    "license": "swisstopo OGD terms; attribution required; not relicensed as CC BY",
+    "attribution": "Source: Federal Office of Topography swisstopo",
+    "qualification": "SOURCE_VERIFIED_GEOMETRY_QA_PENDING"
+  },
+  {
+    "item": "swissbuildings3d_3_0_2019_1091-23",
+    "collection": "ch.swisstopo.swissbuildings3d_3_0",
+    "asset_url": "https://data.geo.admin.ch/ch.swisstopo.swissbuildings3d_3_0/swissbuildings3d_3_0_2019_1091-23/swissbuildings3d_3_0_2019_1091-23_2056_5728.citygml.zip",
+    "stac_url": "https://data.geo.admin.ch/api/stac/v1/collections/ch.swisstopo.swissbuildings3d_3_0/items/swissbuildings3d_3_0_2019_1091-23",
+    "path": "E:\\lsy\\UAV_LowAltitude_3D_Benchmark_20261028_v3\\raw\\swissbuildings3d_3_0_2019_1091-23_2056_5728.citygml.zip",
+    "bytes": 190870064,
+    "sha256": "be328f3b9fc414de6ef67be1754ff73c627ce419a2940efc986a080a9cec4695",
+    "official_multihash": "1220BE328F3B9FC414DE6EF67BE1754FF73C627CE419A2940EFC986A080A9CEC4695",
+    "official_hash_verified": true,
+    "elapsed_s": 12.506128200000603,
+    "nominal_datetime": "2019-01-01T00:00:00Z",
+    "crs": "EPSG:2056 + EPSG:5728",
+    "license": "swisstopo OGD terms; attribution required; not relicensed as CC BY",
+    "attribution": "Source: Federal Office of Topography swisstopo",
+    "qualification": "SOURCE_VERIFIED_GEOMETRY_QA_PENDING"
+  }
+]

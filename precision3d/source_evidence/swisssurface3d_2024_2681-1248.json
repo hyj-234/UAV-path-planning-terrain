@@ -1,0 +1,78 @@
+{
+  "id": "swisssurface3d_2024_2681-1248",
+  "collection": "ch.swisstopo.swisssurface3d",
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5112101,
+          47.3778561
+        ],
+        [
+          8.5113911,
+          47.3868495
+        ],
+        [
+          8.5246335,
+          47.3867258
+        ],
+        [
+          8.5244502,
+          47.3777324
+        ],
+        [
+          8.5112101,
+          47.3778561
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    8.5112101,
+    47.3777324,
+    8.5246335,
+    47.3868495
+  ],
+  "properties": {
+    "datetime": "2024-01-01T00:00:00Z",
+    "created": "2025-08-15T13:20:24.069126Z",
+    "updated": "2025-12-15T07:25:24.640232Z"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://data.geo.admin.ch/api/stac/v1/collections/ch.swisstopo.swisssurface3d/items/swisssurface3d_2024_2681-1248"
+    },
+    {
+      "rel": "root",
+      "href": "https://data.geo.admin.ch/api/stac/v1/"
+    },
+    {
+      "rel": "parent",
+      "href": "https://data.geo.admin.ch/api/stac/v1/collections/ch.swisstopo.swisssurface3d"
+    },
+    {
+      "rel": "collection",
+      "href": "https://data.geo.admin.ch/api/stac/v1/collections/ch.swisstopo.swisssurface3d"
+    },
+    {
+      "rel": "alternate",
+      "title": "STAC Browser",
+      "type": "text/html",
+      "href": "https://data.geo.admin.ch/browser/index.html#/collections/ch.swisstopo.swisssurface3d/items/swisssurface3d_2024_2681-1248"
+    }
+  ],
+  "assets": {
+    "swisssurface3d_2024_2681-1248_2056_5728.copc.laz": {
+      "type": "application/vnd.laszip+copc",
+      "href": "https://data.geo.admin.ch/ch.swisstopo.swisssurface3d/swisssurface3d_2024_2681-1248/swisssurface3d_2024_2681-1248_2056_5728.copc.laz",
+      "created": "2025-08-15T13:20:24.228208Z",
+      "updated": "2025-12-15T07:25:24.640232Z",
+      "proj:epsg": 2056,
+      "file:checksum": "12200A321B11CA8548E0856E25E073AB2839624F5395F19C06E144BB12B0F80A2931"
+    }
+  }
+}

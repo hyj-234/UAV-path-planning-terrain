@@ -1,0 +1,313 @@
+{
+  "schema_version": "uav3d-0.1",
+  "id": "calibration_n12_r0p25_w14",
+  "world_id": "synthetic_bridge_w14",
+  "source_kind": "SYNTHETIC_PROTOCOL_CALIBRATION_ONLY",
+  "agents": [
+    {
+      "id": "uav_00",
+      "radius_m": 0.25,
+      "start": [
+        3.0,
+        -9.35,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        9.35,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uav_01",
+      "radius_m": 0.25,
+      "start": [
+        3.0,
+        -7.6499999999999995,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        7.6499999999999995,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uav_02",
+      "radius_m": 0.25,
+      "start": [
+        3.0,
+        -5.949999999999999,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        5.949999999999999,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uav_03",
+      "radius_m": 0.25,
+      "start": [
+        3.0,
+        -4.25,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        4.25,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uav_04",
+      "radius_m": 0.25,
+      "start": [
+        3.0,
+        -2.55,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        2.55,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uav_05",
+      "radius_m": 0.25,
+      "start": [
+        3.0,
+        -0.8499999999999996,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        0.8499999999999996,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uav_06",
+      "radius_m": 0.25,
+      "start": [
+        3.0,
+        0.8499999999999996,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        -0.8499999999999996,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uav_07",
+      "radius_m": 0.25,
+      "start": [
+        3.0,
+        2.5500000000000007,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        -2.5500000000000007,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uav_08",
+      "radius_m": 0.25,
+      "start": [
+        3.0,
+        4.25,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        -4.25,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uav_09",
+      "radius_m": 0.25,
+      "start": [
+        3.0,
+        5.949999999999999,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        -5.949999999999999,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uav_10",
+      "radius_m": 0.25,
+      "start": [
+        3.0,
+        7.65,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        -7.65,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uav_11",
+      "radius_m": 0.25,
+      "start": [
+        3.0,
+        9.35,
+        4.0
+      ],
+      "goal": [
+        37.0,
+        -9.35,
+        4.0
+      ],
+      "initial_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "final_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "map_margin_m": 0.15,
+  "tracking_margin_m": 0.1,
+  "separation_margin_m": 0.3,
+  "limits": {
+    "runtime_budget_s": 10.0,
+    "mission_deadline_s": 600.0,
+    "speed_mps": 5.0,
+    "acceleration_mps2": 2.0,
+    "endpoint_tolerance_m": 0.02
+  },
+  "difficulty": {
+    "fleet_size": 12,
+    "body_radius_m": 0.25,
+    "bridge_half_width_m": 14,
+    "crossing": "symmetric center convergence",
+    "endpoint_height_m": 4.0
+  }
+}

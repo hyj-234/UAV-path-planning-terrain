@@ -1,0 +1,97 @@
+{
+  "id": "swissbuildings3d_3_0_2019_1091-23",
+  "collection": "ch.swisstopo.swissbuildings3d_3_0",
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5150651,
+          47.4048054
+        ],
+        [
+          8.5730194,
+          47.4042511
+        ],
+        [
+          8.5724451,
+          47.3772713
+        ],
+        [
+          8.5145202,
+          47.3778253
+        ],
+        [
+          8.5150651,
+          47.4048054
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    8.5145202,
+    47.3772713,
+    8.5730194,
+    47.4048054
+  ],
+  "properties": {
+    "datetime": "2019-01-01T00:00:00Z",
+    "created": "2023-06-01T08:20:31.636743Z",
+    "updated": "2025-01-28T14:16:10.598602Z"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://data.geo.admin.ch/api/stac/v1/collections/ch.swisstopo.swissbuildings3d_3_0/items/swissbuildings3d_3_0_2019_1091-23"
+    },
+    {
+      "rel": "root",
+      "href": "https://data.geo.admin.ch/api/stac/v1/"
+    },
+    {
+      "rel": "parent",
+      "href": "https://data.geo.admin.ch/api/stac/v1/collections/ch.swisstopo.swissbuildings3d_3_0"
+    },
+    {
+      "rel": "collection",
+      "href": "https://data.geo.admin.ch/api/stac/v1/collections/ch.swisstopo.swissbuildings3d_3_0"
+    },
+    {
+      "rel": "alternate",
+      "title": "STAC Browser",
+      "type": "text/html",
+      "href": "https://data.geo.admin.ch/browser/index.html#/collections/ch.swisstopo.swissbuildings3d_3_0/items/swissbuildings3d_3_0_2019_1091-23"
+    }
+  ],
+  "assets": {
+    "swissbuildings3d_3_0_2019_1091-23_2056_5728.citygml.zip": {
+      "type": "application/x.gml+zip",
+      "href": "https://data.geo.admin.ch/ch.swisstopo.swissbuildings3d_3_0/swissbuildings3d_3_0_2019_1091-23/swissbuildings3d_3_0_2019_1091-23_2056_5728.citygml.zip",
+      "created": "2024-08-12T13:26:41.225519Z",
+      "updated": "2025-01-28T14:16:10.598602Z",
+      "proj:epsg": 2056,
+      "geoadmin:variant": "tiled",
+      "file:checksum": "1220BE328F3B9FC414DE6EF67BE1754FF73C627CE419A2940EFC986A080A9CEC4695"
+    },
+    "swissbuildings3d_3_0_2019_1091-23_2056_5728.dwg.zip": {
+      "type": "application/x.dwg+zip",
+      "href": "https://data.geo.admin.ch/ch.swisstopo.swissbuildings3d_3_0/swissbuildings3d_3_0_2019_1091-23/swissbuildings3d_3_0_2019_1091-23_2056_5728.dwg.zip",
+      "created": "2023-06-01T08:32:27.296338Z",
+      "updated": "2025-01-19T00:36:07.141194Z",
+      "proj:epsg": 2056,
+      "geoadmin:variant": "tiled",
+      "file:checksum": "122097660553A43A311EC8FE67E4E33CCB343C8C1D22468997AD14C1B9FB945822A0"
+    },
+    "swissbuildings3d_3_0_2019_1091-23_2056_5728.gdb.zip": {
+      "type": "application/x.filegdb+zip",
+      "href": "https://data.geo.admin.ch/ch.swisstopo.swissbuildings3d_3_0/swissbuildings3d_3_0_2019_1091-23/swissbuildings3d_3_0_2019_1091-23_2056_5728.gdb.zip",
+      "created": "2023-06-01T08:20:31.764467Z",
+      "updated": "2025-01-19T00:33:06.787125Z",
+      "proj:epsg": 2056,
+      "geoadmin:variant": "tiled",
+      "file:checksum": "122014175797082D3CFE1C348E75136BBF1C33CE4431D82B52437F69696A1FDCF7C5"
+    }
+  }
+}

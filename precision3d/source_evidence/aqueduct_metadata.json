@@ -1,0 +1,190 @@
+{
+  "id": "znxxsgn2ky",
+  "doi": {
+    "id": "10.17632/znxxsgn2ky.2",
+    "status": "allocated",
+    "prefix": "10.17632"
+  },
+  "name": "Dataset for: Scan-to-BIM-to-Sim: Automated reconstruction of digital and simulation models from point clouds with applications on bridges",
+  "description": "The dataset consists of raw point cloud data (.pcd file)  of an Aqueduct Bridge obtained through terrestrial laser scanning. The bridge is located on the A38 near the University of Birmingham (C3W6+RX Birmingham) and carries a canal in the centre, allowing pedestrians to pass on both sides.",
+  "version": 2,
+  "contributors": [
+    {
+      "contribution": "Data acquisition, process and methodology",
+      "profile_id": "0b49eabc-fe33-491e-bb80-71a37be201b3",
+      "first_name": "Yunping",
+      "last_name": "Fang"
+    },
+    {
+      "institution": {
+        "id": "cf9045c3-5888-57c4-8e26-d27e261900f8",
+        "name": "University of Birmingham",
+        "ror_id": "https://ror.org/03angcq70"
+      },
+      "contribution": "Data acquisition and methodology",
+      "profile_id": "42801430-77ea-4fe3-8f7a-995cdea0f2dc",
+      "first_name": "Jelena",
+      "last_name": "Ninic"
+    },
+    {
+      "institution": {
+        "id": "cf9045c3-5888-57c4-8e26-d27e261900f8",
+        "name": "University of Birmingham",
+        "ror_id": "https://ror.org/03angcq70"
+      },
+      "contribution": "Data acquisition and methodology",
+      "first_name": "Stergios",
+      "last_name": "Mitoulis"
+    },
+    {
+      "institution": {
+        "id": "cf9045c3-5888-57c4-8e26-d27e261900f8",
+        "name": "University of Birmingham",
+        "ror_id": "https://ror.org/03angcq70"
+      },
+      "contribution": "Data acquisition and process",
+      "first_name": "Daniel",
+      "last_name": "Boddice"
+    },
+    {
+      "institution": {
+        "id": "cf9045c3-5888-57c4-8e26-d27e261900f8",
+        "name": "University of Birmingham",
+        "ror_id": "https://ror.org/03angcq70"
+      },
+      "contribution": "Methodology",
+      "first_name": "Jialiang",
+      "last_name": "Yu"
+    }
+  ],
+  "files": [
+    {
+      "filename": "Aqueduct_all.pcd",
+      "id": "d2e82788-287e-48d7-b7f9-4a0bfa212580",
+      "content_details": {
+        "id": "e54c7618-5b21-4fbe-8aab-2e5a34a5535e",
+        "sha256_hash": "6fb7806d474bbe7d32b80e93e4b686f7df4cd6be008f45ca0ffc98634ffbba9b",
+        "content_type": "application/octet-stream",
+        "size": 472340945,
+        "created_date": "2024-11-05T13:51:37.827Z",
+        "download_url": "https://data.mendeley.com/public-files/datasets/znxxsgn2ky/files/d2e82788-287e-48d7-b7f9-4a0bfa212580/file_downloaded",
+        "view_url": "https://data.mendeley.com/public-files/datasets/znxxsgn2ky/files/d2e82788-287e-48d7-b7f9-4a0bfa212580/file_viewed",
+        "download_expiry_time": "2126-10-28T04:03:07.095385267Z"
+      },
+      "metrics": {
+        "downloads": 0,
+        "previews": 0
+      },
+      "size": 472340945,
+      "status": "COMPLETED"
+    },
+    {
+      "filename": "Aqueduct_labeled.pcd",
+      "id": "22d9ccc4-94ba-409a-b13b-ad92e6a2a250",
+      "content_details": {
+        "id": "a8980a3e-85e4-4189-adc5-137d3706917f",
+        "sha256_hash": "5c0d93d438b309e2b18331ed8a14e5847f3ce86bc8f1a594225f632a9243c7bd",
+        "content_type": "application/octet-stream",
+        "size": 304130954,
+        "created_date": "2024-11-11T11:51:57.391Z",
+        "download_url": "https://data.mendeley.com/public-files/datasets/znxxsgn2ky/files/22d9ccc4-94ba-409a-b13b-ad92e6a2a250/file_downloaded",
+        "view_url": "https://data.mendeley.com/public-files/datasets/znxxsgn2ky/files/22d9ccc4-94ba-409a-b13b-ad92e6a2a250/file_viewed",
+        "download_expiry_time": "2126-10-28T04:03:07.095389317Z"
+      },
+      "metrics": {
+        "downloads": 0,
+        "previews": 0
+      },
+      "size": 304130954,
+      "status": "COMPLETED"
+    },
+    {
+      "filename": "Aqueduct_rotated.pcd",
+      "id": "97c348a5-195b-4f2a-bdbd-68bca1694e46",
+      "content_details": {
+        "id": "d179bfae-6dab-4cec-b17a-36a2dc05dbe9",
+        "sha256_hash": "d9cec7272f25adf3e174b7b34d678876d57337dc3a66478ecd4e5970148a6028",
+        "content_type": "application/octet-stream",
+        "size": 545381201,
+        "created_date": "2024-11-11T11:53:31.373Z",
+        "download_url": "https://data.mendeley.com/public-files/datasets/znxxsgn2ky/files/97c348a5-195b-4f2a-bdbd-68bca1694e46/file_downloaded",
+        "view_url": "https://data.mendeley.com/public-files/datasets/znxxsgn2ky/files/97c348a5-195b-4f2a-bdbd-68bca1694e46/file_viewed",
+        "download_expiry_time": "2126-10-28T04:03:07.095393067Z"
+      },
+      "metrics": {
+        "downloads": 0,
+        "previews": 0
+      },
+      "size": 545381201,
+      "status": "COMPLETED"
+    }
+  ],
+  "versions": [
+    {
+      "version": 2,
+      "available": true,
+      "publish_date": "2025-02-06T17:35:43.404Z"
+    },
+    {
+      "version": 1,
+      "available": true,
+      "publish_date": "2024-11-11T23:53:37.31Z"
+    }
+  ],
+  "articles": [],
+  "categories": [
+    {
+      "id": "data.elsevier.com/vocabulary/OmniScience/Concept-253221919",
+      "label": "Laser Scanning"
+    },
+    {
+      "id": "data.elsevier.com/vocabulary/OmniScience/Concept-297934706",
+      "label": "Point Cloud"
+    }
+  ],
+  "institutions": [
+    {
+      "id": "cf9045c3-5888-57c4-8e26-d27e261900f8",
+      "name": "University of Birmingham",
+      "ror_id": "https://ror.org/03angcq70"
+    }
+  ],
+  "metrics": {
+    "views": 0,
+    "file_downloads": 0,
+    "file_previews": 0
+  },
+  "available": true,
+  "method": "Data for the study were collected using a total station with terrestrial laser scanning capabilities (Trimble SX10) from five collection points. After obtaining the scanned point cloud data, preliminary data processing is conducted, including denoising, rotation, and point cloud segmentation. Following the Scan-to-BIM-to-Sim framework proposed in the paper, the scanned data is converted into a BIM model using Dynamo and Revit software. Subsequently, ABAQUS software is used to extract bridge information from the BIM model, resulting in a real-time finite element model.",
+  "size": 1321853100,
+  "owner": {
+    "contribution": "Data acquisition, process and methodology",
+    "profile_id": "0b49eabc-fe33-491e-bb80-71a37be201b3",
+    "first_name": "Yunping",
+    "last_name": "Fang"
+  },
+  "channel": "WEB",
+  "owner_id": "0b49eabc-fe33-491e-bb80-71a37be201b3",
+  "publish_date": "2025-02-06T17:35:43.404Z",
+  "data_licence": {
+    "id": "01d9c749-3c4d-4431-9df3-620b2dcfe144",
+    "description": "You can share, copy and modify this dataset so long as you give appropriate credit, provide a link to the CC BY license, and indicate if changes were made, but you may not do so in a way that suggests the rights holder has endorsed you or your use of the dataset. Note that further permission may be required for any content within the dataset that is identified as belonging to a third party.",
+    "url": "http://creativecommons.org/licenses/by/4.0",
+    "category": "Creative",
+    "short_name": "CC BY 4.0",
+    "full_name": "Creative Commons Attribution 4.0 International"
+  },
+  "related_links": [],
+  "funders": [],
+  "customer_id": "7377952c-6404-4428-bbfc-77242cfc301e",
+  "modified_on": "2025-02-06T10:28:05.7Z",
+  "created_on": "2024-10-31T13:13:57.789Z",
+  "confidential": false,
+  "links": {
+    "view": "https://data.mendeley.com/datasets/znxxsgn2ky"
+  },
+  "repository": {
+    "id": "MENDELEY_DATA",
+    "name": "Mendeley Data"
+  }
+}
